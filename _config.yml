@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: DiSARM
 email: hello@disarm.io
-description: "[Mlandvo - can you fill this in?!]"
+description: "Data-driven decision making platform for malaria"
 
 collections:
   - progress_updates
