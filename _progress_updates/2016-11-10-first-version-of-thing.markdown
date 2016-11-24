@@ -16,3 +16,5 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 Example of *italics* and **bold**
 
 I kind of think we want some more formatting, like links at least. Say to the [code](/code_and_tech)
+
+Edit coming in from Mlandvo
