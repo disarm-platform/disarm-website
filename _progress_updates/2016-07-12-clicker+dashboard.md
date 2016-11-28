@@ -1,7 +1,7 @@
 ---
 title: Clicker + Dashboard
 subtitle: A special thing
-layout: default
+layout: post
 modal-id: 1
 date: '2016-11-10'
 img: dreams.png

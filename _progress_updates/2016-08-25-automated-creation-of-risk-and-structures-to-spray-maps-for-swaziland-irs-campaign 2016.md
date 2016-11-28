@@ -1,7 +1,7 @@
 ---
 title: Automated creation of risk and structures-to-spray maps for Swaziland IRS 2016
 subtitle: A special thing
-layout: default
+layout: post
 modal-id: 1
 date: '2016-08-25'
 img: dreams.png

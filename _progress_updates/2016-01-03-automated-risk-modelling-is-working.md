@@ -1,7 +1,7 @@
 ---
 title: Automated risk modelling is working
 subtitle: A special thing
-layout: default
+layout: post
 modal-id: 1
 date: '2016-01-03'
 img: dreams.png

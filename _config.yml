@@ -5,6 +5,7 @@ baseurl:
 title: DiSARM
 email: hello@disarm.io
 description: "Data-driven decision making platform for malaria"
+host: 0.0.0.0
 
 collections:
   progress_updates:

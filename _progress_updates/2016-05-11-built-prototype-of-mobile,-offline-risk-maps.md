@@ -1,7 +1,7 @@
 ---
 title: Built prototype of mobile, offline risk maps
 subtitle: A special thing
-layout: default
+layout: post
 modal-id: 1
 date: '2016-05-11'
 img: dreams.png

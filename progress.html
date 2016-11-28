@@ -10,15 +10,17 @@ layout: default
                     <h3 class="section-subheading text-muted">Some updates on progress.</h3>
                 </div>
             </div>
-            <div class="row">
+            <div>
             {% for post in site.progress_updates %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <img src="/img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
-                    </div>
+            <div class="post row">
+
+                <img src="/img/portfolio/{{ post.thumbnail }}" class="cols-xs-12 col-sm-4 img-responsive post-img" alt="">
+                <div class="col-xs-12 col-sm-8 post-content">
+                    <h4>{{ post.title }}</h4>
+                    <p class="text-muted">{{ post.subtitle }}</p>
+                    <a href="{{post.url}}">Read more</a>
                 </div>
+            </div>
             {% endfor %}
             </div>
         </div>

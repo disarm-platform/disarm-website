@@ -1,7 +1,7 @@
 ---
 title: Building the 'Core interface'
 subtitle: A special thing
-layout: default
+layout: post
 modal-id: 1
 date: '2016-06-03'
 img: dreams.png

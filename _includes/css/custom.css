@@ -1,0 +1,84 @@
+.post-page {
+  padding-top: 5em;
+}
+
+
+/***
+  About page
+***/
+
+.about {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.about-image {
+  width: 80%;
+  margin: 1.5em auto;
+  display: block;
+
+}
+
+
+/***
+  Team page
+***/
+
+.team {
+  margin-top: 1em;
+}
+
+.team-title {
+  margin-bottom: 2em;
+}
+
+.team-subtitle {
+  color: grey;
+  margin-bottom: 2em;
+}
+
+.team-member {
+
+}
+
+.team-image {
+  margin: 0 auto;
+}
+
+
+/***
+  Progress page
+***/
+
+
+.post {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.post-img {
+  margin: 0 auto;
+}
+
+.post-content {
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .about {
+    margin: 0 auto;
+  }
+
+  .about-image {
+    width: 80%;
+  }
+
+  .post-content {
+    text-align: left;
+  }
+
+  .post-img {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
