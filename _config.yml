@@ -1,5 +1,5 @@
 url: https://www.disarm.io
-baseurl: 
+baseurl:
 
 # Site settings
 title: DiSARM
@@ -13,3 +13,6 @@ collections:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-admin
