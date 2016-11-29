@@ -1,6 +1,7 @@
 ---
 name: Hugh Sturrock
 role: DiSARM Lead
-image: Hugh_Sturrock_quqm3b
+image: Jonathan_Smith_hhexj4
+published: false
 ---
 Does things. And other things.
