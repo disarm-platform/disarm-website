@@ -14,3 +14,5 @@ The National Malaria Control Programme at that time was looking to develop a set
 The team was able to validate that this paper-based prototype with the Clinton Health Access Initiative in Swaziland and Zimbabwe as well as the National Malaria Control Programme in Swaziland. The validation process highlighted the need for it, approach and overall workflow.
 
 The team is currently developing the first iterations of a mobile app foci mapper, whose functional aim is to remove technical barriers to NMCP offices being able to use data in their day-to-day work. This covers desktop, tablet and mobile devices at National level, district health units as well as health posts.
+
+[text](link address)
