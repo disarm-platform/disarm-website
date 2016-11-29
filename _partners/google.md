@@ -1,5 +1,6 @@
 ---
 name: Google
 image: Google_ayv8a5
+published: true
 ---
-Does things. And other things.
+They do computers.
