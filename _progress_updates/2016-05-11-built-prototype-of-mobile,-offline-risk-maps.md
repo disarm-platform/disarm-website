@@ -1,9 +1,8 @@
 ---
 title: Built prototype of mobile, offline risk maps
-subtitle: A special thing
 layout: post
-modal-id: 1
-date: '2016-05-11'
+post_date: '2016-05-11'
+image: Outline_Of_IRS_Work
 ---
 
 After we built some of the initial kind of risk maps for each country. We took one static risk map for both Swaziland and Zimbabwe and built a tiny little demonstration app that loads up through a website.

@@ -1,18 +1,8 @@
 ---
 title: Clicker + Dashboard
-subtitle: A special thing
 layout: post
-modal-id: 1
-date: '2016-11-10'
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+post_date: '2016-11-10'
+image: Outline_Of_IRS_Work
 ---
 
 The point behind the clicker up was to demonstrate two things; one of them was to start with a very simple way to collect coordinates of structures which had been sprayed, as well as demonstrate the real time nature of the mobile app.

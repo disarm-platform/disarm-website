@@ -1,7 +1,7 @@
 ---
 title: Developing foci mapper
-subtitle: A special thing
 layout: post
+post_date: '2016-11-10'
 image: Developing_Foci_Mapper_ws5vzb
 ---
 

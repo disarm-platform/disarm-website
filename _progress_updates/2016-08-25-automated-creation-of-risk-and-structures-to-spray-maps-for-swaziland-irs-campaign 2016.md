@@ -1,18 +1,8 @@
 ---
 title: Automated creation of risk and structures-to-spray maps for Swaziland IRS 2016
-subtitle: A special thing
 layout: post
-modal-id: 1
-date: '2016-08-25'
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+post_date: '2016-08-25'
+image: Outline_Of_IRS_Work
 ---
 
 In Swaziland, the surveillance and decision support platform was utilised to create an automated intervention mapping process, which was done by hand in previous years.

@@ -1,18 +1,8 @@
 ---
 title: Building the 'Core interface'
-subtitle: A special thing
 layout: post
-modal-id: 1
-date: '2016-06-03'
-img: /img/header-bg.jpg
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+post_date: '2016-06-03'
+image: Outline_Of_IRS_Work
 ---
 
 The Core interface is designed to let users start to view and explore the outputs from DiSARM’s processing. It initially focuses on the risk maps, and includes some examples of simple analysis.
