@@ -1,5 +1,8 @@
 ---
 name: Clinton Health Access Initiative
 image: Clinton_Health_Access_Initiative_ai1juw
+published: true
 ---
-Does things. And other things. Health things.
+Clinton Health Access Initiative (CHAI)
+
+
