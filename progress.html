@@ -11,13 +11,14 @@ layout: default
                 </div>
             </div>
             <div>
-                {% for post in site.progress_updates %}
-                <div class="post row">
+                {% assign progress_updates = sites.progress_updates | sort: 'post_date' %}
 
-                    <img src="/img/portfolio/{{ post.img }}" class="cols-xs-12 col-sm-4 img-responsive post-img" alt="">
+                {% for post in progress_updates %}
+                <div class="post row">
+                    <img src="{{ site.image_root_url }}c_scale,w_400/{{ site.image_account }}/{{ post.image }}" alt="{{ post.content | strip_html | truncatewords: 15 }}" class="cols-xs-12 col-sm-4 img-responsive post-img" alt="">
                     <div class="col-xs-12 col-sm-8 post-content">
+                        <p class="text-muted">{{ post.post_date | date: '%B %Y'  }}</p>
                         <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
                         <p>{{post.excerpt}}</p>
                         <a href="{{post.url}}">Read more</a>
                     </div>

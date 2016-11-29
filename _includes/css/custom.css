@@ -1,9 +1,10 @@
 p {
   line-height: 2;
+  font-size: 16px;
 }
 
 .footer {
-  
+
 }
 
 .headline {
@@ -63,6 +64,7 @@ p {
 
 .team-image {
   margin: 0 auto;
+  max-width: 75%;
 }
 
 
@@ -72,8 +74,8 @@ p {
 
 
 .post {
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-top: 4em;
+  margin-bottom: 4em;
 }
 
 .post-img {

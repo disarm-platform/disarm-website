@@ -3,6 +3,7 @@
   <div class="row">
     {% for post in site.progress_updates limit:2 %}
       <div class="col-xs-12 col-sm-6 text-center" >
+        <img src="{{ site.image_root_url }}w_400,h_400,c_fill/{{ site.image_account }}/{{ member.image }}" alt="{{ member.content | strip_html | truncatewords: 15 }}">
         <img src="/img/{{ post.img }}" style="max-width: 100%;">
         <h4>{{ post.title }}</h4>
         <p class="text-muted">{{ post.subtitle }} - {{post.date | date_to_string}}</p>

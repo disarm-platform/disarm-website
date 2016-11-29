@@ -7,7 +7,14 @@ email: hello@disarm.io
 description: "Data-driven decision making platform for malaria"
 host: 0.0.0.0
 
+image_root_url: http://res.cloudinary.com/disarm/image/upload/
+image_account : disarm-website
+
 collections:
+  partners:
+    output: true
+  team_members:
+    output: true
   progress_updates:
     output: true
 
@@ -17,3 +24,4 @@ permalink: pretty
 
 gems:
   - jekyll-admin
+
