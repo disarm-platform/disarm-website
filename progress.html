@@ -2,28 +2,30 @@
 layout: default
 ---
 <!-- Progress Updates Grid Section -->
-    <section id="progress">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Progress Updates</h2>
-                    <h3 class="section-subheading text-muted">Some updates on progress.</h3>
-                </div>
-            </div>
-            <div>
-                {% assign progress_updates = sites.progress_updates | sort: 'post_date' %}
+<section id="progress">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Progress Updates</h2>
+          <h3 class="section-subheading text-muted">Some updates on progress.</h3>
+      </div>
+    </div>
+    <div>
+      {% assign progress_updates = site.progress_updates | sort: 'post_date' %}
 
-                {% for post in progress_updates %}
-                <div class="post row">
-                    <img src="{{ site.image_root_url }}c_scale,w_400/{{ site.image_account }}/{{ post.image }}" alt="{{ post.content | strip_html | truncatewords: 15 }}" class="cols-xs-12 col-sm-4 img-responsive post-img" alt="">
-                    <div class="col-xs-12 col-sm-8 post-content">
-                        <p class="text-muted">{{ post.post_date | date: '%B %Y'  }}</p>
-                        <h4>{{ post.title }}</h4>
-                        <p>{{post.excerpt}}</p>
-                        <a href="{{post.url}}">Read more</a>
-                    </div>
-                </div>
-                {% endfor %}
-            </div>
+      {% for post in progress_updates %}
+      <a href="{{post.url}}" class="unstyle-me">
+        <div class="post row">
+          <img src="{{ site.image_root_url }}c_scale,w_400,e_shadow:40/{{ site.image_account }}/{{ post.image }}" alt="{{ post.content | strip_html | truncatewords: 15 }}" class="cols-xs-12 col-sm-4 img-responsive post-img" alt="">
+          <div class="col-xs-12 col-sm-8 post-content">
+              <p class="text-muted">{{ post.post_date | date: '%B %Y'  }}</p>
+              <h4>{{ post.title }}</h4>
+              <p>{{post.excerpt}}</p>
+              <a href="{{post.url}}">Read more</a>
+          </div>
         </div>
-    </section>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

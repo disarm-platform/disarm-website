@@ -7,11 +7,14 @@
 
     {% include nav.html %}
     
-    <header style="background-image: url({{page.img}})">
+    <header style="background-image: url({{ site.image_root_url }}e_brightness:-60/{{ site.image_account }}/{{ page.image }})">
       <div class="container">
-        <div class="intro-text headline">
+        <div class="intro-text headline headline-shadow">
           <div class="intro-heading post-heading">
             {{page.title}}
+          </div>
+          <div class="intro-lead-in headline-shadow">
+            {{page.post_date | date: '%B, %Y' }}
           </div>
         </div>
       </div>

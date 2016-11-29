@@ -3,6 +3,16 @@ p {
   font-size: 16px;
 }
 
+.unstyle-me {
+  color: inherit;
+}
+
+.unstyle-me:hover {
+  color: inherit;
+  color: #{{site.data.template.color.muted}};
+  text-decoration: none;
+}
+
 .footer {
 
 }
@@ -24,6 +34,10 @@ p {
   font-size: 45px !important;
 }
 
+.headline-shadow {
+  text-shadow: 1px 1px 10px rgba(0,0,0,0.8);
+}
+
 /***
   About page
 ***/
@@ -34,7 +48,7 @@ p {
 }
 
 .about-image {
-  width: 80%;
+  width: 100%;
   margin: 1.5em auto;
   display: block;
 
@@ -83,7 +97,7 @@ p {
 }
 
 .post-content {
-  text-align: center;
+  /*text-align: center;*/
 }
 
 @media (min-width: 768px) {
@@ -96,11 +110,7 @@ p {
   }
 
   .about-image {
-    width: 80%;
-  }
-
-  .post-content {
-    text-align: left;
+    /*width: 80%;*/
   }
 
   .post-img {
