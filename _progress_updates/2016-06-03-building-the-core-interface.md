@@ -4,7 +4,7 @@ subtitle: A special thing
 layout: post
 modal-id: 1
 date: '2016-06-03'
-img: dreams.png
+img: /img/header-bg.jpg
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014

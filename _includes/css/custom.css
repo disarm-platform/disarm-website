@@ -1,7 +1,27 @@
-.post-page {
-  padding-top: 5em;
+p {
+  line-height: 2;
 }
 
+.footer {
+  
+}
+
+.headline {
+  margin: 3em 0;
+}
+
+
+.post-page {
+  padding-top: 4em;
+}
+
+.post-text {
+  padding: 2em 1em;
+}
+
+.post-heading {
+  font-size: 45px !important;
+}
 
 /***
   About page
@@ -65,6 +85,10 @@
 }
 
 @media (min-width: 768px) {
+  .post-page {
+    padding-top: 0;
+  }
+
   .about {
     margin: 0 auto;
   }

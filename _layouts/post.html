@@ -6,10 +6,28 @@
     <body id="page-top" class="index post-page">
 
     {% include nav.html %}
-
-    {{content}}
     
-    {% include footer.html %}
+    <header style="background-image: url({{page.img}})">
+      <div class="container">
+        <div class="intro-text headline">
+          <div class="intro-heading post-heading">
+            {{page.title}}
+          </div>
+        </div>
+      </div>
+    </header>
 
+    <div class="container">
+      <div class="row post-text">
+        <div class="col-sm-12 col-md-10 col-md-offset-1">
+        {{content}}
+
+        <br>
+        <a href="/progress">Back to Progress</a>
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+    {% include js.html %}
     </body>
 </html>

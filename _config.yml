@@ -7,6 +7,10 @@ email: hello@disarm.io
 description: "Data-driven decision making platform for malaria"
 host: 0.0.0.0
 
+# Need jekyll-paginate gem
+#paginate: 5
+#paginate_path: "/progress/page:num/"
+
 collections:
   progress_updates:
     output: true
