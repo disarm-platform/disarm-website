@@ -24,7 +24,7 @@ permalink: pretty
 
 prose:
   metadata:
-    progress_updates:
+    _progress_updates:
       - name: title # Automated risk modelling is working
         field:
           element: text
