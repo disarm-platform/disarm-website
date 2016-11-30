@@ -22,3 +22,22 @@ collections:
 markdown: kramdown
 permalink: pretty
 
+prose:
+  metadata:
+    progress_updates:
+      - name: title # Automated risk modelling is working
+        field:
+          element: text
+          type: text
+      - name: layout # post
+        field:
+          element: hidden
+          value: 'post'
+      - name: post_date # '2016-11-03'
+        field:
+          element: text
+          type: text
+      - name: image # Outline_Of_IRS_Work
+        field:
+          element: text
+          type: text
