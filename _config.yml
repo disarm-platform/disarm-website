@@ -25,17 +25,17 @@ permalink: pretty
 prose:
   metadata:
     _team_members:
-      -name: name
+      - name: name
         field:
           label: Team member name
           element: text
           type: text
-      -name: role
+      - name: role
         field:
           label: Role
           element: text
           type: text
-      -name: image
+      - name: image
         field:
           label: Cloudinary image ID
           element: text
