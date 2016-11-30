@@ -27,17 +27,20 @@ prose:
     _progress_updates:
       - name: title # Automated risk modelling is working
         field:
+          label: Update title
           element: text
           type: text
       - name: layout # post
         field:
           element: hidden
-          value: 'post'
+          value: post
       - name: post_date # '2016-11-03'
         field:
+          label: Date of post
           element: text
           type: text
       - name: image # Outline_Of_IRS_Work
         field:
+          label: Selected image
           element: text
           type: text
