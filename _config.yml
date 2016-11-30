@@ -24,6 +24,22 @@ permalink: pretty
 
 prose:
   metadata:
+    _team_members:
+      -name: name
+        field:
+          label: Team member name
+          element: text
+          type: text
+      -name: role
+        field:
+          label: Role
+          element: text
+          type: text
+      -name: image
+        field:
+          label: Cloudinary image ID
+          element: text
+          type: text
     _progress_updates:
       - name: title # Automated risk modelling is working
         field:
@@ -38,9 +54,9 @@ prose:
         field:
           label: Date of post
           element: text
-          type: text
+          type: date
       - name: image # Outline_Of_IRS_Work
         field:
-          label: Selected image
+          label: Cloudinary image ID
           element: text
           type: text
