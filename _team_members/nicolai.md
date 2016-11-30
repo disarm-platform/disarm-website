@@ -1,7 +1,7 @@
 ---
 name: Nicolai Davies
 role: Developer
-image: Hugh_Sturrock_quqm3b
+image: Jonathan_Smith_hhexj4
 published: true
 ---
 Does things. And other things.
