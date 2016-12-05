@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Adam Bennett
 role: Programmatic Lead (San Francisco)
 image: adam
