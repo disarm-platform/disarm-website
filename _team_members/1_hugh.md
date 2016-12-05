@@ -1,7 +1,7 @@
 ---
 name: Hugh Sturrock
-role: DiSARM Lead
+role: Lead (San Francisco)
 image: Hugh_Sturrock
 published: true
 ---
-Does things. And other things.
+Hugh is an Assistant Professor of Epidemiology and Biostatistics in the UCSF Global Health Group and leads the DiSARM project. His background is in spatial epidemiology and modeling.
