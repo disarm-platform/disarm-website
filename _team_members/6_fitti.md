@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Fitti Weisglas
 role: Health Informatics (San Francisco)
 image: Fitti_Weissglas
