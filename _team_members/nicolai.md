@@ -1,5 +1,5 @@
 ---
-name: Nicolai Davies
+name: Jonathan Smith
 role: Developer
 image: Jonathan_Smith_hhexj4
 published: true
