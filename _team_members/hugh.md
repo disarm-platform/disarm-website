@@ -1,7 +1,7 @@
 ---
 name: Hugh Sturrock
 role: DiSARM Lead
-image: Fitti_Weissglas
+image: Hugh_Sturrock
 published: true
 ---
 Does things. And other things.
