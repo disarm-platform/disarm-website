@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Mlandvo Dlamini
 role: Communications
 image: mlandvo
