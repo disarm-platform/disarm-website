@@ -16,7 +16,7 @@ layout: default
       {% for post in progress_updates %}
       <a href="{{post.url}}" class="unstyle-me">
         <div class="post row">
-          <img src="{{ site.image_root_url }}c_scale,w_400,e_shadow:40/{{ site.image_account }}/{{ post.image }}" alt="{{ post.content | strip_html | truncatewords: 15 }}" class="cols-xs-12 col-sm-4 img-responsive post-img" alt="">
+          <img src="{{ site.image_root_url }}c_scale,w_400/{{ site.image_account }}/{{ post.image }}" alt="{{ post.content | strip_html | truncatewords: 15 }}" class="cols-xs-12 col-sm-4 img-responsive post-img" alt="">
           <div class="col-xs-12 col-sm-8 post-content">
               <p class="text-muted">{{ post.post_date | date: '%B %Y'  }}</p>
               <h4>{{ post.title }}</h4>
