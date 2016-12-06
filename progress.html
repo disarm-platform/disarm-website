@@ -11,7 +11,7 @@ layout: default
       </div>
     </div>
     <div>
-      {% assign progress_updates = site.progress_updates | sort: 'post_date' %}
+      {% assign progress_updates = site.progress_updates | sort: 'post_date' | reverse %}
 
       {% for post in progress_updates %}
       <a href="{{post.url}}" class="unstyle-me">
