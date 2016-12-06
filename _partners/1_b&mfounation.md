@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Bill Melinda Gates Foundation
 image: Bill_Melinda_Gates_Foundation_dcngvk
 ---
