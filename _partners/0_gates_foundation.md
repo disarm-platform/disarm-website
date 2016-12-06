@@ -1,1 +1,0 @@
-Bill and Melinda Gates Foundation
