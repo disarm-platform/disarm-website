@@ -1,8 +1,9 @@
 ---
-title: Built first version of the 'pipeline'
 layout: post
+title: Built first version of the 'pipeline'
 post_date: '2016-06-03'
-image: DiSARM_Pipeline_3
+image: DiSARM_Pipeline_2
+published: true
 ---
 
 We want to use DiSARM to remove as many of the technical barriers as possible, making it easy use data and information that’s already been collected. The automated risk modelling and mapping approach [insert link to HS article] was a really important start, but we needed a way to make that process run regularly on its own, gathering the inputs it needs, and creating the full range of outputs needed. And avoiding the need to have R expertise to run the models.
