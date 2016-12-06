@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 role: Statistician (San Francisco)
 name: Ricardo Andrade
 image: ricardo
