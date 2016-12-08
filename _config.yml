@@ -11,9 +11,11 @@ image_root_url: https://res.cloudinary.com/disarm/image/upload/
 image_account : disarm-website
 
 collections:
+  team_members:
+    output: true
   partners:
     output: true
-  team_members:
+  support_partners:
     output: true
   progress_updates:
     output: true

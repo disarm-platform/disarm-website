@@ -1,0 +1,17 @@
+<!-- PARTNERS -->
+<h2 class="team-subtitle text-center">Partners</h2>
+<div class="container team">
+  <div class="row">
+
+    {% for partner in site.partners %}
+    <div class="post row">
+        <img src="{{ site.image_root_url }}w_400,c_scale/{{ site.image_account }}/{{ partner.image }}" alt="{{ partner.content | strip_html | truncatewords: 15 }}" class="cols-xs-12 col-sm-4 img-responsive">
+        <div class="col-xs-12 col-sm-8 post-content">
+            <h4>{{ partner.name }}</h4>
+            <p>{{partner.content}}</p>
+        </div>
+    </div>
+  
+    {% endfor %}
+  </div>
+</div>
