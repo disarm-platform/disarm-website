@@ -6,7 +6,7 @@
       {% for person in site.team_members %}
       <div class="col-xs-12 col-sm-6 team-member">
 
-        <img src="{{ site.image_root_url }}w_400,h_400,c_fill/{{ site.image_account }}/{{ person.image }}" alt="{{ person.content | strip_html | truncatewords: 15 }}" class="img-responsive img-circle team-image">
+        <img src="{{ site.image_root_url }}w_400,h_400,c_fill,g_face/{{ site.image_account }}/{{ person.image }}" alt="{{ person.content | strip_html | truncatewords: 15 }}" class="img-responsive img-circle team-image">
         <h4 class="text-center">{{person.name}}</h4>
         <p class="text-muted text-center">{{person.content}}</p>
       </div>
