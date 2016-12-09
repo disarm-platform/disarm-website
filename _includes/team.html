@@ -2,14 +2,23 @@
   <h2 class="team-subtitle text-center">Team</h2>
 
   <div class="container team">
-    <div class="row">
-      {% for person in site.team_members %}
-      <div class="col-xs-12 col-sm-6 team-member">
+    
+    {% for person in site.team_members %}
+      {% assign row = forloop.index | modulo: 2 %}
 
-        <img src="{{ site.image_root_url }}w_400,h_400,c_fill,g_face/{{ site.image_account }}/{{ person.image }}" alt="{{ person.content | strip_html | truncatewords: 15 }}" class="img-responsive img-circle team-image">
-        <h4 class="text-center">{{person.name}}</h4>
-        <p class="text-muted text-center">{{person.content}}</p>
+      {% if row == 1 %}
+      <div class="row">
+      {% endif %} 
+
+        <div class="col-xs-12 col-sm-6 team-member">
+          <img src="{{ site.image_root_url }}w_400,h_400,c_fill,g_face/{{ site.image_account }}/{{ person.image }}" alt="{{ person.content | strip_html | truncatewords: 15 }}" class="img-responsive img-circle team-image">
+          <h4 class="text-center">{{person.name}}</h4>
+          <p class="text-muted text-center">{{person.content}}</p>
+        </div>
+
+      {% if row  == 0 %}
       </div>
-      {% endfor %}
-    </div>
+      {% endif %}
+
+    {% endfor %}
   </div>
