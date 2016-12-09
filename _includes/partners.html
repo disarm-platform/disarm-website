@@ -1,12 +1,13 @@
 <!-- PARTNERS -->
 <h2 class="team-subtitle text-center">Partners</h2>
+
 <div class="container team">
-  <div class="row">
+  <div class="col-xs-12 col-sm-12 ">
     <p>DiSARM development is a team effort. To ensure we are building DiSARM in the right way to do the right things, we are working very closely with the National Malaria Control Programs of Swaziland and Zimbabwe.</p>
     <p>We are also working with the following partners:</p>
 
     {% for partner in site.partners %}
-    <div class="post row">
+    <div class="col-xs-12 col-sm-12 ">
         <img src="{{ site.image_root_url }}w_400,c_scale/{{ site.image_account }}/{{ partner.image }}" alt="{{ partner.content | strip_html | truncatewords: 15 }}" class="cols-xs-12 col-sm-4 img-responsive">
         <div class="col-xs-12 col-sm-8 post-content">
             <h4>{{ partner.name }}</h4>
