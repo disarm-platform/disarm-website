@@ -1,0 +1,14 @@
+Name,Description,Status,Screenshot ref
+DUMA,"Universal, offline, multi-device application",1 - active development,none
+Pipeline R,Risk map generation from case locations,1 - active development,missing
+DiSARM-Jekyll,Project website,1 - active development,
+EE-Imagery-Export,,1 - active development,
+Core Interface,,1 - active development,
+Cluster Structures Shiny,Demo of clustering for IRS based on risk and structure locations,2 - concept or prototype,
+Weather app,Demo of displaying EE climate layers,2 - concept or prototype,
+Clicker App & dashboard,Demonstration of live-updating from field data collection. Being integrated into DUMA,3 - not being developed,
+offline_form_concept,,3 - not being developed,
+DHIS2-DiSARM app,Very simple example of integration.,2 - concept or prototype,
+API viewer,"Alterbative to 'core interfcace', allowing admins to take a look at the direct outputs from the API.",2 - concept or prototype,
+IRS maps fro SWZ,"Static, paper-based PDF maps - one for each of the prioritised localities for sparying,. Showing cluster of structures - no more than 50 in a group, and no more than 250m apart.",2 - concept or prototype,
+Offline risk map demo,,3 - not being developed,

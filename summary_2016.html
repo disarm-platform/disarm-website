@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<section id='summary_2016'>
+  <div class="container team">
+    {% for entry in site.data.summary_2016 %}
+      <dl class='row'>
+        <dt>Title</dt>    
+        <dd>{{entry.Name}}</dd>
+
+        <dt>Description</dt>
+        <dd>{{entry.Description}}</dd>
+
+        <dt>Status</dt>
+        <dd>{{entry.Status}}</dd>
+
+        <dt>Screenshot</dt>
+        <dd>{{entry['Screenshot ref']}}</dd>
+      </dl>
+
+    {% endfor %}
+  </div>
+</section>
