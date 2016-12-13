@@ -10,24 +10,22 @@ layout: default
       </div>
     </div>
   </header>
-<div id='code-and-tech'>
-
-  
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12 col-md-offset-1 col-md-10">
-        <p>DiSARM is an open source project. As soon as code is ready to be shared we will post links to repositories here</p>
-      </div>
-    </div>
-  </div>
-
+<div id='code-and-tech' class="codetech">
 <section id='summary_2016'>
-  <div class="container team">
+  <div class="container">
+  
+    <div class="col-sm-12 col-md-offset-1 col-md-10">
+      <p>DiSARM is an open source project. As soon as code is ready to be shared we will post links to repositories here</p>
+    </div>
+
+
     {% for entry in site.data.summary_2016 %}
-      <div class='summary row'>
+      <div class='summary row entry'>
         <h3>
           {{entry.Name}}
         </h3>
+
+        <div class="entry-status">
         {% case entry.Status %}
           {% when "1 - active development" %}
             <span class='label label-primary'>{{entry.Status}}</span>
@@ -36,15 +34,24 @@ layout: default
           {% when "3 - not being developed" %}
             <span class='label label-warning'>{{entry.Status}}</span>
         {% endcase %}
+        </div>
 
-        <div>{{entry.Description}}</div>
+        
 
         {% assign images = entry['Screenshot ref'] | split: ',' %}
-        {% for image in images %}
-          <a href="{{ site.image_root_url }}{{ site.image_account }}/{{ image }}">
-            <img src="{{ site.image_root_url }}h_400,c_fill,g_face/{{ site.image_account }}/{{ image }}" class="img-responsive">
-          </a>
-        {% endfor %}
+
+        <div class="entry-img-container">
+          {% for image in images %}
+
+            <a href="{{ site.image_root_url }}{{ site.image_account }}/{{ image }}" class="entry-img-link">
+              <img src="{{ site.image_root_url }}h_400,c_fill,g_face/{{ site.image_account }}/{{ image }}" class=" entry-img">
+            </a>
+            
+          {% endfor %}
+        </div>
+
+
+        <div class="entry-description">{{entry.Description}}</div>
       </div>
 
     {% endfor %}
