@@ -1,2 +1,2 @@
 #!/bin/bash
-wget -O _data/summary_2016.json https://api.fieldbook.com/v1/584e651bc9b5980300f1738c/all
+wget -O _data/summary_2016.csv "https://docs.google.com/spreadsheets/d/19lou_AesXO778efOzmdVKSN1EHlOoomo284VT3gkxZc/pub?output=csv"
