@@ -20,4 +20,36 @@ layout: default
       </div>
     </div>
   </div>
+
+<section id='summary_2016'>
+  <div class="container team">
+    {% for entry in site.data.summary_2016 %}
+      <div class='summary row'>
+        <h3>
+          {{entry.Name}}
+        </h3>
+        {% case entry.Status %}
+          {% when "1 - active development" %}
+            <span class='label label-primary'>{{entry.Status}}</span>
+          {% when "2 - concept or prototype" %}
+            <span class='label label-info'>{{entry.Status}}</span>
+          {% when "3 - not being developed" %}
+            <span class='label label-warning'>{{entry.Status}}</span>
+        {% endcase %}
+
+        <div>{{entry.Description}}</div>
+
+        {% assign images = entry['Screenshot ref'] | split: ',' %}
+        {% for image in images %}
+          <a href="{{ site.image_root_url }}{{ site.image_account }}/{{ image }}">
+            <img src="{{ site.image_root_url }}h_400,c_fill,g_face/{{ site.image_account }}/{{ image }}" class="img-responsive">
+          </a>
+        {% endfor %}
+      </div>
+
+    {% endfor %}
+  </div>
+</section>
+
+
 </div>
