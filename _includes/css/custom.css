@@ -109,6 +109,54 @@ p {
 }
 
 
+/***
+  Tech and Code page
+***/
+
+.codetech {
+
+}
+
+
+.entry {
+  margin: 2em;
+}
+
+.entry-title {
+
+}
+
+.entry-status {
+  margin: 1em 0;
+}
+
+.entry-description {
+  margin: 1em 0;
+}
+
+.entry-img-container {
+  max-width: 800px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  /*flex-direction: row;*/
+}
+
+.entry-img {
+  padding: 1em 2em;
+  width: 100%;
+  /*margin: 0 auto;
+  display: block;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 90%;*/
+  
+}
+
+.entry-img-link {
+  flex: 1;
+  text-align: center;
+}
 
 @media (min-width: 768px) {
   .post-page {
@@ -126,5 +174,18 @@ p {
   .post-img {
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .entry {
+    margin: 2em 0;
+  }
+  
+  .entry-img {
+    padding: 0 2em;
+    width: auto;
+  }
+  
+  .entry-img-container {
+    display: flex;
   }
 }
