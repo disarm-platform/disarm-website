@@ -4,4 +4,4 @@ name: Adam Bennett
 role: Programmatic Lead (San Francisco)
 image: ADAM_BENNETT_2
 ---
-Adam is Programmatic lead in the Malaria Elimination Initiative in the UCSF Global Health Group and supports the implementation of DiSARM in southern Africa. He has a broad background in malaria epidemiology.
+Adam is an Assistant Professor of Epidemiology and Biostatistics at UCSF and provides guidance on DiSARM implementation, evaluation, and linkage to MEI surveillance operational research and global malaria surveillance strategies
