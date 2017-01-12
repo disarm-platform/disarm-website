@@ -162,6 +162,10 @@ p {
   text-align: center;
 }
 
+header .intro-text .intro-heading { 
+    font-size: 40px;
+  }
+
 @media (min-width: 768px) {
   .post-page {
     padding-top: 0;
@@ -191,5 +195,9 @@ p {
   
   .entry-img-container {
     display: flex;
+  }
+
+  header .intro-text .intro-heading { 
+    font-size: 60px;
   }
 }
