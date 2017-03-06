@@ -1,0 +1,2232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"active",
+				"activeStructure"
+			],
+			[
+				"redra",
+				"redrawStructures"
+			],
+			[
+				"feature",
+				"featureCollection"
+			],
+			[
+				"Leafl",
+				"LeafletCollection"
+			],
+			[
+				"setActiveIRS",
+				"setActiveIRSStructure"
+			],
+			[
+				"struc",
+				"structure"
+			],
+			[
+				"udat",
+				"updateIRSStructure"
+			],
+			[
+				"struct",
+				"structureToUpdate"
+			],
+			[
+				"structureC",
+				"structureCopy"
+			],
+			[
+				"expo",
+				"export:variable\tES6 Module Export Variable"
+			],
+			[
+				"load",
+				"loadedStructuresCount"
+			],
+			[
+				"color",
+				"colourStructure"
+			],
+			[
+				"red",
+				"redrawStructure"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"inve",
+				"investigate"
+			],
+			[
+				"focis",
+				"focisLayer"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"Mo",
+				"MonitorList"
+			],
+			[
+				"list",
+				"MonitorList"
+			],
+			[
+				"fc",
+				"fociExamples"
+			],
+			[
+				"foci",
+				"fociExamples"
+			],
+			[
+				"pol",
+				"polygonsFeatureCollection"
+			],
+			[
+				"fociG",
+				"fociGuessPoly"
+			],
+			[
+				"foc",
+				"fociGuess"
+			],
+			[
+				"structu",
+				"structuresLayer"
+			],
+			[
+				"strucure",
+				"structuresLayer"
+			],
+			[
+				"structure",
+				"structureStyle"
+			],
+			[
+				"firebase",
+				"firebaseStructures"
+			],
+			[
+				"ob",
+				"Object"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ex",
+				"export:variable\tES6 Module Export Variable"
+			],
+			[
+				"wards",
+				"wardsGeoJson"
+			],
+			[
+				"distr",
+				"districtId"
+			],
+			[
+				"unqi",
+				"uniqueDistricts"
+			],
+			[
+				"near",
+				"nearest-neighbour"
+			],
+			[
+				"cluster_poin",
+				"cluster_point_ids"
+			],
+			[
+				"cluters",
+				"cluster_polygons"
+			],
+			[
+				"to_notion",
+				"to_notion_id"
+			],
+			[
+				"find_by",
+				"find_by_id"
+			],
+			[
+				"from_",
+				"from_notion_id"
+			],
+			[
+				"notion",
+				"notion_id"
+			],
+			[
+				"find",
+				"find_by_id"
+			],
+			[
+				"Atomi",
+				"AtomicNotion"
+			],
+			[
+				"fin",
+				"find_next"
+			],
+			[
+				"cluster",
+				"cluster_points"
+			],
+			[
+				"cl",
+				"ClusterID"
+			],
+			[
+				"get",
+				"generate_mapcode"
+			],
+			[
+				"geojs",
+				"geojson_localities"
+			],
+			[
+				"leaf",
+				"leafletProxy"
+			],
+			[
+				"risk",
+				"risk_threshold"
+			],
+			[
+				"Structure",
+				"StructurePoints"
+			],
+			[
+				"addpr",
+				"add_proportion_structures_above_given_risk"
+			],
+			[
+				"click",
+				"clicked_UniqLocCod"
+			],
+			[
+				"CLICK",
+				"CLICK_INCLUDE"
+			],
+			[
+				"local",
+				"localitySelectionBasket"
+			],
+			[
+				"Local",
+				"LocalitySelectionBasket"
+			],
+			[
+				"recepti",
+				"receptive_areas"
+			],
+			[
+				"Recept",
+				"ReceptiveAreas"
+			],
+			[
+				"rece",
+				"receptive_area"
+			],
+			[
+				"irs",
+				"irs_sp"
+			],
+			[
+				"Struc",
+				"StructurePoints"
+			],
+			[
+				"raster",
+				"rasterize"
+			],
+			[
+				"prevou",
+				"previous_season_count"
+			],
+			[
+				".do",
+				".do_thing"
+			],
+			[
+				"previou",
+				"previous_season_count"
+			],
+			[
+				"currn",
+				"current_season_count"
+			],
+			[
+				"curr",
+				"current_season_dates"
+			],
+			[
+				"previ",
+				"previous_season_dates"
+			],
+			[
+				"Popul",
+				"PopulationPixelCoords"
+			],
+			[
+				"Uniq",
+				"UniqLocCod"
+			],
+			[
+				"Cas",
+				"cases"
+			],
+			[
+				"loca",
+				"locality"
+			],
+			[
+				"activi",
+				"activity_current_season"
+			],
+			[
+				"activity",
+				"activity_previous_two_seasons"
+			],
+			[
+				"acti",
+				"activity_previous_two_seasons"
+			],
+			[
+				".activ",
+				".activity_previous_two_seasons"
+			],
+			[
+				".actuv",
+				".activity_previous_two_seasons"
+			],
+			[
+				"case",
+				"case_history"
+			],
+			[
+				"Case",
+				"case_history"
+			],
+			[
+				".date",
+				".date_period_previous_two_seasons"
+			],
+			[
+				"current",
+				"current_season"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"cases",
+				"cases_for_season"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"bounding",
+				"bounding_box"
+			],
+			[
+				"Stru",
+				"StructurePoints.rds"
+			],
+			[
+				"StructureSel",
+				"StructureSelectionBasket"
+			],
+			[
+				"USER",
+				"USER_DELETED"
+			],
+			[
+				"obser",
+				"observeEvent\t{shiny}"
+			],
+			[
+				"filter",
+				"filteredMenu"
+			],
+			[
+				"fil",
+				"filteredMenu"
+			],
+			[
+				"match",
+				"matchingDishes"
+			],
+			[
+				"force",
+				"force_analyses"
+			],
+			[
+				"anal",
+				"analyses_paths"
+			],
+			[
+				"ref",
+				"ref_dates"
+			],
+			[
+				"output",
+				"output_file"
+			],
+			[
+				"write_c",
+				"write_cases_current_month"
+			],
+			[
+				"run",
+				"run_time_stamp"
+			],
+			[
+				".downlo",
+				".download_with_logic"
+			],
+			[
+				".retri",
+				".retrieve_gs_for"
+			],
+			[
+				".down",
+				".download_with_etag"
+			],
+			[
+				"etag",
+				"etag_file"
+			],
+			[
+				"remote",
+				"remote_etag"
+			],
+			[
+				"source",
+				"source_files_path"
+			],
+			[
+				"time",
+				"timestamp\t{utils}"
+			],
+			[
+				"restore",
+				"restore_state"
+			],
+			[
+				"mapp",
+				"mapped_results"
+			],
+			[
+				"ap",
+				"api_target"
+			],
+			[
+				"zipe",
+				"zip_filename_prefix"
+			],
+			[
+				"object",
+				"object_name"
+			],
+			[
+				"objec",
+				"object_name"
+			],
+			[
+				"sync",
+				"syncActivity"
+			],
+			[
+				"record",
+				"recordType"
+			],
+			[
+				"fire",
+				"firebaseError"
+			],
+			[
+				"structures",
+				"structuresCountOffset"
+			],
+			[
+				"va",
+				"validAuthCode"
+			],
+			[
+				"wat",
+				"watchID"
+			],
+			[
+				"s12",
+				"uk-column-small-1-2 \tUIkit class"
+			],
+			[
+				"pale",
+				"palette_def"
+			],
+			[
+				"palet",
+				"palette_def"
+			],
+			[
+				"pal",
+				"palette\t{grDevices}"
+			],
+			[
+				"temp",
+				"temp_raster"
+			],
+			[
+				"envir",
+				"environment\t{base}"
+			],
+			[
+				"layer",
+				"layer_type"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"api",
+				"api_dir"
+			],
+			[
+				"gener",
+				"generate_api_url"
+			],
+			[
+				"type",
+				"typeObj"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 205.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"quick",
+				"Quick File Creator: Create file"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"move",
+				"Quick File Move: Move Current File"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"gff",
+				"Git-flow: Feature Start"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"nex",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"ours",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"next",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"our",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"gitpul",
+				"Git: Pull"
+			],
+			[
+				"gitlog",
+				"Git: Log"
+			],
+			[
+				"git stau",
+				"Git: Stash Include Untracked"
+			],
+			[
+				"foldco",
+				"Fold Comments"
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"git branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"gstat",
+				"Git: Status"
+			],
+			[
+				"confl",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"pre",
+				"Preferences: Pretty JSON Settings - Default"
+			],
+			[
+				"thei",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"their",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitf",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"gitpush",
+				"Git: Push Current Branch"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"gf",
+				"Git-flow: Feature Start"
+			],
+			[
+				"gfff",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"gitpu",
+				"Git: Push Current Branch"
+			],
+			[
+				"gs",
+				"Set Syntax: SublimeGit Status"
+			],
+			[
+				"find",
+				"Finder: Open here"
+			],
+			[
+				"gffs",
+				"Git-flow: Feature Start"
+			],
+			[
+				"gsat",
+				"Git: Status"
+			],
+			[
+				"snake",
+				"Convert Case: snake_case"
+			],
+			[
+				"gc",
+				"Git: Checkout"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"fold",
+				"Fold Comments"
+			],
+			[
+				"foldcom",
+				"Fold Comments"
+			],
+			[
+				"finder",
+				"Finder: Open here"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"unfol",
+				"Unfold Comments"
+			],
+			[
+				"comments",
+				"Fold Comments"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"git stu",
+				"Git: Status"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"gitflow",
+				"Git-flow: Feature Start"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"finish",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"mvoe",
+				"Quick File Move: Move Current File"
+			],
+			[
+				"start",
+				"Git-flow: Feature Start"
+			],
+			[
+				"gitfet",
+				"Git: Fetch"
+			],
+			[
+				"featur",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"feau",
+				"Git-flow: Feature Start"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"git-f",
+				"Git-flow: Feature Finish"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dash",
+				"Convert Case: dash-case"
+			],
+			[
+				"rename",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"Came",
+				"Convert Case: camelCase"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"rmeove",
+				"Jekyll: Remove draft"
+			],
+			[
+				"case",
+				"Convert Case: dash-case"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"beaut",
+				"Javascript Beautify"
+			],
+			[
+				"justi",
+				"CSV: Justify columns"
+			],
+			[
+				"post",
+				"Set Syntax: PostCSS"
+			],
+			[
+				"justify",
+				"CSV: Justify columns"
+			],
+			[
+				"gitchec",
+				"Git: Checkout"
+			],
+			[
+				"gchec",
+				"Git: Checkout"
+			],
+			[
+				"justif",
+				"CSV: Justify columns"
+			],
+			[
+				"randmo",
+				"Random:Date"
+			],
+			[
+				"random",
+				"Random:Country"
+			],
+			[
+				"def",
+				"Go To Definition"
+			],
+			[
+				"gitini",
+				"Git: Init"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"pret",
+				"Preferences: Pretty JSON Settings - Default"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Validate"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"amend",
+				"Git: Amend Commit"
+			],
+			[
+				"or",
+				"Set Syntax: orgmode"
+			],
+			[
+				"gss",
+				"Git: Stash"
+			],
+			[
+				"defin",
+				"Go To Definition"
+			],
+			[
+				"removebook",
+				"SublimeBookmarks: Remove All Bookmarks (Clear Bookmarks)"
+			],
+			[
+				"gd",
+				"Git: Diff"
+			],
+			[
+				"bookmarks",
+				"SublimeBookmarks: Goto Next Bookmark"
+			],
+			[
+				"removeboo",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"previous",
+				"SublimeBookmarks: Goto Previous Bookmark"
+			],
+			[
+				"add",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"booksmark",
+				"SublimeBookmarks: Show All Bookmarks "
+			],
+			[
+				"addbook",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"name",
+				"NamedMark: Go"
+			],
+			[
+				"book",
+				"Bookmarks: Select Next"
+			],
+			[
+				"king",
+				"King: Number: Select Next Number"
+			],
+			[
+				"k",
+				"King: Help!"
+			],
+			[
+				"number",
+				"King: Number: Number Sequence"
+			],
+			[
+				"the",
+				"Git Conflict Resolver: Keep Theirs"
+			],
+			[
+				"comment",
+				"Snippet: R Comments - Section Comment Block"
+			],
+			[
+				"aligb",
+				"AlignTab"
+			],
+			[
+				"docblock",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"orgmode",
+				"Preferences: orgmode Settings – Default"
+			],
+			[
+				"org",
+				"Set Syntax: orgmode"
+			],
+			[
+				"synorgm",
+				"Set Syntax: orgmode"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"gitinit",
+				"Git: Init"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 203.0,
+		"history":
+		[
+			"echo $PATH",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/_site/style.css",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/disarm-website.sublime-project",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/disarm-website-full.sublime-project",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/_includes/support_partners.html",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/_includes/partners.html",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/partners_and_team.html",
+		"/Users/jonathan/Dv_DiSARM/Core/douma/disarm-website.sublime-project",
+		"/Users/jonathan/Dv_DiSARM/Core/douma/package.json",
+		"/Users/jonathan/Dv_DiSARM/Core/douma/src/pages/irs/list/list.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/douma/src/pages/irs/tasks/tasks.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/douma/webpack.config.js",
+		"/Users/jonathan/Dv_DiSARM/Core/douma/src/components/Tabs.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/douma/src/store.js",
+		"/Users/jonathan/Dv_DiSARM/Core/douma/src/pages/foci/monitor/list.vue",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/_includes/css/custom.css",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/_includes/nav.html",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/css?family=Roboto+Slab",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/css/font-awesome/fonts/fontawesome-webfont.eot",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/progress.html",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/_includes/about.html",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/_includes/css/agency.css",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/index.html",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/_includes/header.html",
+		"/Users/jonathan/Dv_DiSARM/Project/disarm-platform.github.io/_includes/head.html",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/index.html",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/components/App.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/index.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/CNAME",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/README.md",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/package.json",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/irs/form/form.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/irs/tasks/tasks.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/irs/map/map.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/duma.sublime-project",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/store.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/lib/models.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/lib/map_helpers.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/irs/list/list.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/lib/LeafletCollection.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/investigate/map.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/investigate/detail.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/router.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/identify/map_guess_foci.vue",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/identify/map_support.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/docs/map.md",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/irs/irs_map.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/irs/root.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/components/Tabs.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/investigate/form.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/webpack.config.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/monitor/map.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/monitor/list.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/respond/form.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/classify/form.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/investigate/foci_investigation_form.json",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/monitor/monitor.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/cases/root.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/meta/user/login.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/bootstrap/foci.json",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/components/no-active-foci.vue",
+		"/Users/jonathan/Dropbox/PEOPLESIZED/PROJECTS and WORK/_LIVE/DiSARM project 2016/_PRODUCTS/DiSARM pink-D/logo-w150.png",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/dist/index.html",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/identify/firebase_export.json",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/monitor/firebase_export.json",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/identify/temp_structures.json",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/monitor/foci.json",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/respond/detail.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/lib/helpers.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/lib/map_support.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/.gitignore",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/monitor/temp_structures.json",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/identify/map_edit_foci.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/investigate/foci_investigation_form.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/identify/temp_structures.js",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/index.html",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/fonts/Roboto.css",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/node_modules/create-hash/helpers.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/node_modules/lodash/remove.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/fonts/MaterialIcons.css",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/MaterialIcons.css",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/Roboto.css",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/Roboto-Italic.ttf",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/Roboto-Bold.ttf",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/Roboto-Medium.ttf",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/Roboto-Regular.ttf",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/Roboto-Light.ttf",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/css?family=Roboto:300,400,500,700,400italic",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/icon?family=Material+Icons",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/identify/map.vue",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/identify/firebase-support.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/src/pages/foci/identify/temp_data.js",
+		"/Users/jonathan/Dv_DiSARM/Core/duma/node_modules/lodash/template.js",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/Landing.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/AreaSelector.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/App.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/TaskSelector.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/Error.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/ModuleSelector.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/areas/Foci.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/areas/IRS.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/ViewSelector.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/components/MetaUser.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/ViewSelector.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/TaskSelector.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/ModuleSelector.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/App.vue",
+		"/Users/jonathan/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/MetaUser.vue",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/main.js",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/index.html",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/package.json",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/webpack.config.js",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/node_modules/js-beautify/js/lib/unpackers/p_a_c_k_e_r_unpacker.js",
+		"/Users/jonathan/Dv_DiSARM/Core/pipeline-r/countries/SWZ/config/files.csv",
+		"/Users/jonathan/Dv_DiSARM/Core/pipeline-r/R/5_run_model.R",
+		"/Users/jonathan/Dv_temp/mapbox-gl-js-offline-example/countries.json",
+		"/Users/jonathan/Dv_DiSARM/Experiments/swz_vector_tiles/swz_tiles/14/9598/9420.pbf.png",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/dist/index.html",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/dist/service-worker.js",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-webpack-simple/src/index.html",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-browserify/service-worker.js",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-browserify/src/custom-sw.js",
+		"/Users/jonathan/Desktop/file_to_beautify.js",
+		"/Users/jonathan/Dv_temp/vue-cli/vue-cli-browserify/package.json",
+		"/Users/jonathan/Downloads/vueVSractive/ractive/index.html",
+		"/Users/jonathan/Downloads/vueVSractive/ractive/ractive.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/jonathan/Dv_DiSARM/Core/duma",
+			"\"/\"",
+			"/",
+			"",
+			"-log/, -.Rproj.user/, -output/",
+			"-log/, -.Rproj.user/",
+			"-log/, -.Rproj.user",
+			"-log/, -countries/",
+			"-log/",
+			"",
+			"-ext/",
+			"js/",
+			"h",
+			"ext/",
+			"<open folders>",
+			"/Users/jonathan/Dv/offlinedata",
+			"/Users/jonathan/Dv/undp-pa-review/searcher,-node_modules/,-DOCUMENTS/",
+			"/Users/jonathan/Dv/undp-pa-review/searcher,-/node_modules",
+			"/Users/jonathan/Dv/undp-pa-review/searcher,-node_modules/",
+			"/Users/jonathan/Dv/undp-pa-review/searcher,-node_modules",
+			"/Users/jonathan/Dv/undp-pa-review/searcher",
+			"/Users/jonathan/Dv/peoplesized.com",
+			"/Users/jonathan/Dropbox/Apps/wpb2d",
+			"/Users/jonathan/Dv/livemap,-node_modules/,-ext/",
+			"/Users/jonathan/Dv/livemap,-node_modules/",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive/,-node_modules/",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive/",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive/,-*.json,-node_modules/,-ext/,-data/",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive/,-*.json,-node_modules/,-ext/",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive/js,-*.json,-node_modules/,-ext/",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive/js,-*.json,-node_modules/,-ext/,-js/app.js",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive/js,-*.json,-node_modules/,-ext/,-/js/app.js",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive/js,-*.json,-node_modules/,-ext/",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive,-*.json,-node_modules/,-ext/",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive,-*.json,-node_modules/",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive,-*.json,-node_modules",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive,-*.json",
+			"/Users/jonathan/Dv/unccd_iif_map/unccd_iif_ractive",
+			"/Users/jonathan/Dv/ssc-dev/_includes",
+			"/Users/jonathan/Dv/ssc-dev",
+			"/Users/jonathan/Dv/jekyll-data/_includes",
+			"/Users/jonathan/Dv/move,-.meteor/*,-public/*",
+			"/Users/jonathan/Dv/move,-.meteor/*",
+			"/Users/jonathan/Dv/move",
+			"/Users/jonathan/Dv/jekyll-data/",
+			"/Users/jonathan/Dv/jekyll-data/_ssc_data",
+			"/Users/jonathan/Dv/jekyll-data",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"lod",
+			"sortBy",
+			"find",
+			"lodash",
+			"map",
+			"duma",
+			"DUMA",
+			"symbol",
+			"toFeatureCollection",
+			"    this.featureCollection = this.toFeatureCollection()\n",
+			"structuresCollection",
+			"StructuresCollection",
+			"redrawStructures",
+			"_featureCollection",
+			"structuresFeatureCollection",
+			"featureCollection",
+			"_toFeatureCollection",
+			"length",
+			"structures",
+			"toFeatureCollection",
+			"array",
+			"_initModels",
+			"_buildCollection",
+			"structures",
+			"structuresCollection",
+			"StructuresCollection",
+			"structuresCollection",
+			"structures",
+			"Structures",
+			"structures",
+			"Structures",
+			"structures",
+			"input",
+			"createStructuresCollection",
+			"redrawStructures",
+			"redrawStructure",
+			"redrawStructures",
+			"const",
+			"structureId",
+			"activeStructure",
+			"activeStructureId",
+			"setActiveIRSStructure",
+			"redrawStructures",
+			"structuresFeatureCollection",
+			"loadStructures",
+			"redrawStructure",
+			"redrawStructures",
+			"redrawStructure",
+			"_createGeoJSON",
+			"this._geojson",
+			"_buildFeatureCollection",
+			"featureCollection",
+			"output",
+			"array",
+			"_buildFeatureCollection",
+			"_featureCollection",
+			"_createGeoJSON",
+			"this._models",
+			"this._geojson",
+			"_createGeoJSON",
+			"_featureCollection",
+			"this.models",
+			"this.geojson",
+			"geojson",
+			"activeStructure",
+			"structureCopy",
+			"loadStructures",
+			"removeLayer",
+			"loadStructures",
+			"structureCopy",
+			"redrawStructure",
+			"mapActions",
+			"redrawStructure",
+			"setActiveIRSStructure",
+			"loadStructures",
+			"fociExamples",
+			"structure.",
+			"redrawStructure",
+			"click",
+			"activeStructure",
+			"setActiveIRSStructure",
+			"activeStructure",
+			"loadStructures",
+			"structuresLayer",
+			"mapThing",
+			"findIndex",
+			"loadStructures",
+			"redrawStructure",
+			"loadMap",
+			"mapThing",
+			"loadStructures",
+			"activeStructure",
+			"structures",
+			"active",
+			"Active",
+			"active",
+			"Active",
+			"active",
+			"activeStructure",
+			"active",
+			"loadStructures",
+			"nextTi",
+			"(o) => ",
+			"setActiveIRSStructure",
+			"active",
+			"Active",
+			"active",
+			"loadMap",
+			"redrawStructure",
+			"structuresLayer",
+			"loadMap",
+			"loadStructures",
+			"this.map",
+			"irs_root",
+			"MapHelpers",
+			"../../../lib/map_helpers.js",
+			"createStructures",
+			"js",
+			"JS",
+			"js",
+			"../../../lib/map_helpers.js",
+			"map_helpers",
+			"fetchData",
+			"redrawStructure",
+			"loadStructures",
+			"structuresLayer",
+			"initialTabStateSet",
+			"foci:monitor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"{",
+			"write_risk_year_to_date",
+			"write_risk_current_month",
+			"write_outputs",
+			"Action",
+			"action",
+			"\\1",
+			"\\0",
+			"\\1",
+			"\\0",
+			" \\0",
+			"\\1",
+			" ",
+			"\n    startDate: $1$2\n    endDate: $3$4",
+			"\nstartDate: $1$2\nendDate: $3$4",
+			"\\n$0",
+			"\\n$1",
+			"this.ractive",
+			"Countr$1",
+			"countr$1",
+			"$1ountr$2",
+			"country",
+			"countriesData",
+			"Countries",
+			"Country",
+			"country",
+			"countries",
+			"",
+			"console.log",
+			"definitions",
+			"included",
+			"filter-choice",
+			"|",
+			"Excluded",
+			"getExcluded",
+			"NotExcluded",
+			"Excluded",
+			"excluded",
+			"<%= ",
+			" %>",
+			"%>",
+			"<%=",
+			"<%= ",
+			" %>",
+			"}x}",
+			"{x{",
+			"}>}",
+			"{<{",
+			" %>",
+			"<%= ",
+			"<%=",
+			"",
+			"gm_supported",
+			"parties",
+			"party",
+			"PartiesStatus",
+			"PartyStatus",
+			"Parties",
+			"Party",
+			"app.data",
+			"",
+			"\\n",
+			"United",
+			"{\"iso2\": \"$1\"},\\n",
+			"$1",
+			"\\n",
+			"uni",
+			"gaul",
+			"faostat",
+			"iso3",
+			"iso2",
+			"undp",
+			"short_name",
+			"official_name",
+			";\\n",
+			";",
+			"{\"iso2\": \"$1\", \"iso3\": \"$2\"},",
+			"\"iso2\": \"$1\", \"iso3\": \"$2\"",
+			"\"country\": \"$1\",",
+			"\"},\\n{\"iso3\":",
+			"},\n{\"i",
+			"{\"iso3\":",
+			"^{\"iso3\":",
+			"},{\"iso3\":",
+			"{\"iso3\"",
+			"}",
+			"",
+			"\"path\": ",
+			"\"iso3\": \"$1\",",
+			"\"country\": \"$1\",",
+			"country: $1",
+			"",
+			"\"iif_planned_year\": \"unknown\",",
+			"\"iif_established_year\": \"unknown",
+			" ",
+			"\\3\\t\\2",
+			"\\3\\2",
+			"\\2\\1",
+			"\\1\\t",
+			"\\t\\1",
+			"0\\1 ",
+			"0\\1\\s",
+			"0\\1",
+			"\\1\\n",
+			"$1",
+			"$1\\n",
+			"\\$1\\n",
+			"$1\\n",
+			"filters:change",
+			"\\t",
+			"observedCollection",
+			"",
+			"$0,\\n\"type\": \"country\"\\n",
+			"$0,\\n\\s{4}\"type\": \"country\"\\n",
+			"\"type\": \"country\",\\n$0",
+			"",
+			"stateRef",
+			"onlyjsmith",
+			"qwkly.com",
+			"jekyll-data",
+			",",
+			";",
+			",",
+			"",
+			"\"",
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 102.0
+	},
+	"output.git-checkout":
+	{
+		"height": 116.0
+	},
+	"output.git-commit":
+	{
+		"height": 116.0
+	},
+	"output.git-push":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"code_",
+				"_site/code_and_tech/index.html"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"styles",
+				"_site/style.css"
+			],
+			[
+				"partner",
+				"_includes/partners.html"
+			],
+			[
+				"part",
+				"partners_and_team.html"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"asks",
+				"src/pages/irs/tasks/tasks.vue"
+			],
+			[
+				"irslist",
+				"src/pages/irs/list/list.vue"
+			],
+			[
+				"listv",
+				"src/pages/foci/monitor/list.vue"
+			],
+			[
+				"store",
+				"src/store.js"
+			],
+			[
+				"tabs",
+				"src/components/Tabs.vue"
+			],
+			[
+				"cust",
+				"_includes/css/custom.css"
+			],
+			[
+				"web",
+				"css/font-awesome/fonts/fontawesome-webfont.eot"
+			],
+			[
+				"progr",
+				"progress.html"
+			],
+			[
+				"about",
+				"_includes/about.html"
+			],
+			[
+				"nav",
+				"_includes/nav.html"
+			],
+			[
+				"defa",
+				"_layouts/default.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"indexhtml",
+				"src/index.html"
+			],
+			[
+				"app",
+				"src/components/App.vue"
+			],
+			[
+				"indexjs",
+				"src/index.js"
+			],
+			[
+				"appvu",
+				"src/components/App.vue"
+			],
+			[
+				"cnam",
+				"src/CNAME"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"sub",
+				"duma.sublime-project"
+			],
+			[
+				"maphelp",
+				"src/lib/map_helpers.js"
+			],
+			[
+				"lsit",
+				"src/pages/irs/list/list.vue"
+			],
+			[
+				"models",
+				"src/lib/models.js"
+			],
+			[
+				"irsform",
+				"src/pages/irs/form/form.vue"
+			],
+			[
+				"isrtas",
+				"src/pages/irs/tasks/tasks.vue"
+			],
+			[
+				"st",
+				"src/store.js"
+			],
+			[
+				"irsmap",
+				"src/pages/irs/map/map.vue"
+			],
+			[
+				"focmap",
+				"src/pages/foci/investigate/map.vue"
+			],
+			[
+				"fociinvet",
+				"src/pages/foci/investigate/detail.vue"
+			],
+			[
+				"task",
+				"src/pages/irs/tasks/tasks.vue"
+			],
+			[
+				"irsma",
+				"src/pages/irs/map/map.vue"
+			],
+			[
+				"tas",
+				"src/pages/irs/tasks/tasks.vue"
+			],
+			[
+				"mapguess",
+				"src/pages/foci/identify/map_guess_foci.vue"
+			],
+			[
+				"mapsu",
+				"src/pages/foci/identify/map_support.js"
+			],
+			[
+				"sto",
+				"src/store.js"
+			],
+			[
+				"route",
+				"src/router.js"
+			],
+			[
+				"mode",
+				"src/lib/models.js"
+			],
+			[
+				"tab",
+				"src/components/Tabs.vue"
+			],
+			[
+				"irsmapvue",
+				"src/pages/irs/map/map.vue"
+			],
+			[
+				"sotre",
+				"src/store.js"
+			],
+			[
+				"for.vue",
+				"src/pages/irs/form/form.vue"
+			],
+			[
+				"focin",
+				"src/pages/foci/investigate/form.vue"
+			],
+			[
+				"indexj",
+				"src/index.js"
+			],
+			[
+				"for.",
+				"src/pages/irs/form/form.vue"
+			],
+			[
+				"inde",
+				"src/index.html"
+			],
+			[
+				"irs",
+				"src/pages/irs/root.vue"
+			],
+			[
+				"rou",
+				"src/router.js"
+			],
+			[
+				"webp",
+				"webpack.config.js"
+			],
+			[
+				"monma",
+				"src/pages/foci/monitor/map.vue"
+			],
+			[
+				"moni",
+				"src/pages/foci/monitor/list.vue"
+			],
+			[
+				"rout",
+				"src/router.js"
+			],
+			[
+				"monili",
+				"src/pages/foci/monitor/list.vue"
+			],
+			[
+				"map",
+				"src/pages/foci/identify/map_guess_foci.vue"
+			],
+			[
+				"investmap",
+				"src/pages/foci/investigate/map.vue"
+			],
+			[
+				"invmap",
+				"src/pages/foci/investigate/map.vue"
+			],
+			[
+				"monmap",
+				"src/pages/foci/monitor/map.vue"
+			],
+			[
+				"invema",
+				"src/pages/foci/investigate/map.vue"
+			],
+			[
+				"invde",
+				"src/pages/foci/investigate/detail.vue"
+			],
+			[
+				"molis",
+				"src/pages/foci/monitor/list.vue"
+			],
+			[
+				"mo",
+				"src/pages/foci/monitor/monitor.vue"
+			],
+			[
+				"inves",
+				"src/pages/foci/investigate/detail.vue"
+			],
+			[
+				"monli",
+				"src/pages/foci/monitor/list.vue"
+			],
+			[
+				"monompa",
+				"src/pages/foci/monitor/map.vue"
+			],
+			[
+				"invma",
+				"src/pages/foci/investigate/map.vue"
+			],
+			[
+				"invfor",
+				"src/pages/foci/investigate/form.vue"
+			],
+			[
+				"invefor",
+				"src/pages/foci/investigate/form.vue"
+			],
+			[
+				"respo",
+				"src/pages/foci/respond/form.vue"
+			],
+			[
+				"class",
+				"src/pages/foci/classify/form.vue"
+			],
+			[
+				"fociin",
+				"src/pages/foci/investigate/foci_investigation_form.json"
+			],
+			[
+				"guess",
+				"src/pages/foci/identify/map_guess_foci.vue"
+			],
+			[
+				"gues",
+				"src/pages/foci/identify/map_guess_foci.vue"
+			],
+			[
+				"monlist",
+				"src/pages/foci/monitor/list.vue"
+			],
+			[
+				"ruot",
+				"src/router.js"
+			],
+			[
+				"metalo",
+				"src/pages/meta/user/login.vue"
+			],
+			[
+				"irsroo",
+				"src/pages/irs/root.vue"
+			],
+			[
+				"root",
+				"src/pages/cases/root.vue"
+			],
+			[
+				"clasfor",
+				"src/pages/foci/classify/form.vue"
+			],
+			[
+				"monolis",
+				"src/pages/foci/monitor/list.vue"
+			],
+			[
+				"form",
+				"src/pages/foci/investigate/form.vue"
+			],
+			[
+				"focifor",
+				"src/pages/foci/investigate/foci_investigation_form.json"
+			],
+			[
+				"invede",
+				"src/pages/foci/investigate/detail.vue"
+			],
+			[
+				"foci",
+				"src/bootstrap/foci.json"
+			],
+			[
+				"list",
+				"src/pages/foci/monitor/list.vue"
+			],
+			[
+				"mon",
+				"src/pages/foci/monitor/monitor.vue"
+			],
+			[
+				"acti",
+				"src/components/no-active-foci.vue"
+			],
+			[
+				"inveform",
+				"src/pages/foci/investigate/form.vue"
+			],
+			[
+				"monimap",
+				"src/pages/foci/monitor/map.vue"
+			],
+			[
+				"ind",
+				"src/index.html"
+			],
+			[
+				"appv",
+				"src/components/App.vue"
+			],
+			[
+				"in",
+				"src/index.html"
+			],
+			[
+				"a",
+				"src/components/App.vue"
+			],
+			[
+				"routes",
+				"src/router.js"
+			],
+			[
+				"ap",
+				"src/components/App.vue"
+			],
+			[
+				"sot",
+				"src/store.js"
+			],
+			[
+				"fireb",
+				"src/pages/foci/identify/firebase_export.json"
+			],
+			[
+				"fire",
+				"src/pages/foci/monitor/firebase_export.json"
+			],
+			[
+				"temp",
+				"src/pages/foci/identify/temp_structures.json"
+			],
+			[
+				"mapgues",
+				"src/pages/foci/identify/map_guess_foci.vue"
+			],
+			[
+				"webpac",
+				"webpack.config.js"
+			],
+			[
+				"respn",
+				"src/pages/foci/respond/form.vue"
+			],
+			[
+				"invest",
+				"src/pages/foci/investigate/detail.vue"
+			],
+			[
+				"focij",
+				"src/bootstrap/foci.json"
+			],
+			[
+				"respon",
+				"src/pages/foci/respond/form.vue"
+			],
+			[
+				"focis",
+				"src/bootstrap/foci.json"
+			],
+			[
+				"router",
+				"src/router.js"
+			],
+			[
+				"store.",
+				"src/store.js"
+			],
+			[
+				"respnd",
+				"src/pages/foci/respond/detail.vue"
+			],
+			[
+				"classde",
+				"src/pages/foci/classify/detail.vue"
+			],
+			[
+				"classfor",
+				"src/pages/foci/classify/form.vue"
+			],
+			[
+				"detail",
+				"src/pages/foci/investigate/detail.vue"
+			],
+			[
+				"detailv",
+				"src/pages/foci/investigate/detail.vue"
+			],
+			[
+				"monit",
+				"src/pages/foci/monitor/map.vue"
+			],
+			[
+				"invet",
+				"src/pages/foci/investigate/detail.vue"
+			],
+			[
+				"focigue",
+				"src/pages/foci/identify/map_guess_foci.vue"
+			],
+			[
+				"focig",
+				"src/pages/foci/identify/map_guess_foci.vue"
+			],
+			[
+				"mavue",
+				"src/pages/foci/monitor/map.vue"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"helpers",
+				"src/lib/helpers.js"
+			],
+			[
+				"mapfoci",
+				"src/pages/foci/identify/map_edit_foci.vue"
+			],
+			[
+				"tempstr",
+				"src/pages/foci/identify/temp_structures.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"mapsupp",
+				"src/pages/foci/identify/map_support.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dv_DiSARM/Project/disarm-platform.github.io/disarm-website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 73.0,
+		"last_filter": "highlight-acronym",
+		"selected_items":
+		[
+			[
+				"highlight-acronym",
+				"highlight-acronym"
+			],
+			[
+				"nav",
+				"navbar-brand"
+			],
+			[
+				"navbar",
+				"navbar-brand"
+			],
+			[
+				"build",
+				"buildFeatureCollection (array)"
+			],
+			[
+				"create",
+				"createStructuresCollection"
+			],
+			[
+				"loadStr",
+				"loadStructures()"
+			],
+			[
+				"load",
+				"loadMap()"
+			],
+			[
+				"clusters",
+				"get_clusters"
+			],
+			[
+				"restore",
+				"restore_state"
+			],
+			[
+				"restor",
+				"restore_last_state"
+			],
+			[
+				"runmo",
+				"run_model"
+			],
+			[
+				"loadin",
+				"load_input_files"
+			],
+			[
+				"getdata",
+				"get_data_for_covariate"
+			],
+			[
+				"generaee",
+				"generate_EE_url"
+			],
+			[
+				"download",
+				".download_with_logic"
+			],
+			[
+				"generateee",
+				"generate_EE_url"
+			],
+			[
+				"savesta",
+				"save_state"
+			],
+			[
+				"writeStruc",
+				"function writeStructure(structure_id, structure_data)"
+			],
+			[
+				"tabs",
+				"_tabSelected: function(event)"
+			],
+			[
+				"write",
+				"writeStructure"
+			],
+			[
+				"writeStruture",
+				"function writeStructureData(structure_id, structure_data)"
+			],
+			[
+				"writeStr",
+				"writeStructure"
+			],
+			[
+				"nameFromShort",
+				"nameFromShort"
+			],
+			[
+				"findB",
+				"findBySearch"
+			]
+		],
+		"width": 360.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
