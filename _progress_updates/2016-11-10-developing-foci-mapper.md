@@ -5,9 +5,7 @@ post_date: '2016-11-10'
 image: Developing_Foci_Mapper_ws5vzb
 ---
 
-Foci investigation was identified earlier on as one of the potential use cases for DiSARM.
-
-After our initial focus on IRS, we were invited to attend a National Foci Planning Meeting in Zimbabwe, Matabeleland South, together with other provinces focusing on the elimination stage of malaria. Where the Malaria program is focused on the control of malaria, the foci approach is not appropriate.
+Foci investigation was identified earlier on as one of the potential use cases for DiSARM. After our initial focus on IRS, we were invited to attend a National Foci Planning Meeting in Zimbabwe, Matabeleland South, together with other provinces focusing on the elimination stage of malaria. Where the Malaria program is focused on the control of malaria, the foci approach is not appropriate.
 
 The National Malaria Control Programme at that time was looking to develop a set of guidelines for their National Policy. The DiSARM Team was to play an observer role and from that deduce the needs and put together a paper-based prototype.
 
