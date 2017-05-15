@@ -1,8 +1,9 @@
 ---
-title: Intervention targeting
 layout: post
+title: Intervention targeting
 post_date: '2017-04-12'
-image: intervention-targeter
+image: intervention-targeting
+published: true
 ---
 
 The intervention targeting module is one of several modules currently under development. It is comprised of 4 components designed to help guide planning, execution and monitoring of intervention campaigns for malaria elimination. Parts of the targeting module were used by NMCP in Swaziland to define priority localities by risk and historic data and produce printed maps for 2016 IRS season.  Responding to feedback from users and partners, the module has since been modified to further enhance current process flows.
@@ -13,5 +14,4 @@ The Planning component is designed to allow programs to prioritize areas for a p
 
 The Task component builds on the Planning component by allowing managers to assign intervention teams to each of the clusters. This helps to avoid overlap of activities/data collection.
 
-The Record component allows users to view tasks (clusters with structures/households) assigned to their team as lists or on a map, and record data at those locations on or offline.  Using the map view, the Record component allows users to view their location relative to the structures and clusters they have to work on. 
-
+The Record component allows users to view tasks (clusters with structures/households) assigned to their team as lists or on a map, and record data at those locations on or offline.  Using the map view, the Record component allows users to view their location relative to the structures and clusters they have to work on.
