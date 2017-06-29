@@ -17,7 +17,7 @@ collections:
     output: true
   support_partners:
     output: true
-  progress_updates:
+  updates:
     output: true
 
 # Build settings
