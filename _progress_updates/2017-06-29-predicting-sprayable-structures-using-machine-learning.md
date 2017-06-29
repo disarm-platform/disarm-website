@@ -3,8 +3,8 @@ layout: post
 published: true
 title: Predicting sprayable structures using machine learning
 image:
-  - ''
-  - ''
+  - osm_structures
+  - osm_structures
 post_date: '2017-06-29'
 ---
 While incredibly detailed maps showing roads, buildings and rivers are available for most well resourced countries, the same is not true for the less well resourced countries affected by malaria. OpenStreetMap, via the Humanitarian OpenStreetMap (www.hotosm.org) and Missing Maps projects (www.missingmaps.org), is helping to map some of the poorest places on Earth. In many countries, such as Swaziland, Botswana and Zimbabwe, there is nearly complete information on roads and buildings, providing a fantastic set of data to help plan malaria household intervention campaigns such as indoor residual spraying with insecticide, distribution of mosquito nets and mass drug administration. However, complete information relating to the building type is rare, making it impossible to distinguish residential from non-residential structures. Yet, this information is crucial for helping to plan and execute intervention campaigns targeted at households. 
