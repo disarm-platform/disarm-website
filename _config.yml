@@ -62,3 +62,7 @@ prose:
           label: Cloudinary image ID
           element: text
           type: text
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
