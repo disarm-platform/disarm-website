@@ -42,7 +42,7 @@ prose:
           label: Cloudinary image ID
           element: text
           type: text
-    _progress_updates:
+    _updates:
       - name: title # Automated risk modelling is working
         field:
           label: Update title
