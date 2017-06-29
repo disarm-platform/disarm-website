@@ -17,7 +17,7 @@ collections:
     output: true
   support_partners:
     output: true
-  updates:
+  progress_updates:
     output: true
 
 # Build settings
@@ -42,7 +42,7 @@ prose:
           label: Cloudinary image ID
           element: text
           type: text
-    _updates:
+    _progress_updates:
       - name: title # Automated risk modelling is working
         field:
           label: Update title
