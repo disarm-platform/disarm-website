@@ -9,4 +9,7 @@ While incredibly detailed maps showing roads, buildings and rivers are available
 
 The DiSARM team is working to apply powerful machine learning to predict whether a building is sprayable or not based on features such as its size, shape, distance to road and roof type. Early results such that we can predict ~90% of structures correctly. By building this information into DiSARM, the platform allows a better estimate of the scale of operations required for a given campaign and helps to improve estimates of coverage.
 
+![osm_structures.png]({{site.baseurl}}/_progress_updates/osm_structures.png)
+
+
 Maps showing the observed building classifications (above) and independent predictions from machine learning (below) in Mbabane, Swaziland
