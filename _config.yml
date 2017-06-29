@@ -62,3 +62,8 @@ prose:
           label: Cloudinary image ID
           element: text
           type: text
+      - name: image
+        field:
+          label: Cloudinary image ID
+          element: text
+          type: text
