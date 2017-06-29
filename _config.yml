@@ -62,7 +62,8 @@ prose:
           label: Cloudinary image ID
           element: text
           type: text
-      - name: "layout"
+      - name: "permalink"
         field:
-          element: "hidden"
-          value: "blog"
+          element: "text"
+          label: "Permalink"
+          value: ""
