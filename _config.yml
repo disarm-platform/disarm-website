@@ -62,8 +62,3 @@ prose:
           label: Cloudinary image ID
           element: text
           type: text
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
