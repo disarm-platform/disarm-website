@@ -1,40 +1,8 @@
 <div class="container about" id="about">
-  <h3 class="text-center headline">The platform</h3>
-  <div class="row">
-    <div class="col-sm-12 col-md-offset-1 col-md-10">
-      <p>
-        DiSARM is a unique surveillance and decision support platform, designed to allow malaria control programs to perform complex spatial and mathematical analyses and interact with data in an intuitive way to help inform decision-making. Developed initially for malaria by the <a href="http://www.shrinkingthemalariamap.org/">Malaria Elimination Initiative</a> in the <a href="https://globalhealthsciences.ucsf.edu/about-us/our-organization/global-health-group" target="_blank">Global Health Group </a>at the University of California, San Francisco, DiSARM is being implemented in Swaziland and Zimbabwe with the support of the Bill and Melinda Gates Foundation, Google Earth Engine, and the Clinton Health Access Initiative.  
-      </p>
-      <p>
-        A core feature of DiSARM is the ability to combine malaria program information such as case data with satellite derived environmental and climatological variables to produce risk maps and recommendations of actions that a program can make decision on. The system is capable of operating in near real time and is fully automated, producing outputs in different formats that suit the users.
-      </p>
-      <img class="about-image" src="http://res.cloudinary.com/disarm/image/upload/c_scale,w_600/v1494920523/disarm-website/disarm_about.png">
-      <p>
-      Behind the scenes is DiSARM’s core that uses satellite data processed using Google Earth Engine. The core interface gives users a real-time view of the malaria situation and allows predictions of risk at specific locations, such as health facility catchments, villages and schools. Overlaying data on interventions allows programs to better understand their distribution and identify areas at high risk with insufficient levels of protection.
-      </p>
-      <p>
-        DiSARM also has a targeting module, to allow risk maps produced by the core to be used to prioritize areas for interventions such as indoor residual spraying (IRS), insecticide treated nets (ITNs) and mass drug administration (MDA). Users can select areas based on risk and then group individual structures within those areas into operational units which can be assigned to teams on the ground. Previously this process would require external expertise to conduct the relevant analyses and manually create the operational units; DiSARM automates these processes as much as possible to simplify them to a point at which programs are able to do the analyses themselves.
-      </p>
-
-      <p>
-        The DiSARM mobile app is being developed to allow field teams, such as IRS, foci investigation and active surveillance teams, to receive information on where to conduct activities, to visualize this information on offline maps and enter data at specific points, such as households, structures and breeding sites. This allows for a more coordinated and integrated way to collect and share data among teams, helps teams to navigate to exactly where they need to go and allows managers to track progress of teams as they work.
-      </p>
-
-      <p>
-        DiSARM is being implemented in Swaziland and Zimbabwe. The early version has already led to substantial impact in Swaziland with the IRS spraying guided by prioritization maps produced by DiSARM. In partnership with CHAI we are working on a foci management module. This will simplify the process of identifying and delineating foci, and will allow programs to trigger and guide investigation and response and monitor and track progress towards elimination of all foci.
-      </p>
-
-      <img class="about-image" src="http://res.cloudinary.com/disarm/image/upload/c_scale,w_600/v1493015291/disarm-website/DiSARM_Targeter_2.png">
-  
-      <p>
-        A forecasting module will allow programs to receive alerts as to the locations of potential outbreaks before they happen and send alerts to relevant parties, such as health facilities, community health workers and other community leaders in these areas.
-      </p>
-
-      <p>
-        Future versions of DiSARM will give the public access to real-time risk maps to understand disease location and spread, providing alerts and recommendations to promote and encourage personal protection. DiSARM is flexible and not disease specific. Where entomological data are available, DiSARM can be adapted to predict vector distributions, direct teams to potential breeding sites and make recommendations about optimal intervention strategies for malaria and other mosquito-borne diseases such as Zika, Dengue and Chikungunya.
-      </p>
-
-      <p>For more information on the project please contact Hugh Sturrock <a href="mailto:hugh.sturrock@ucsf.edu">hugh.sturrock@ucsf.edu</a></p>
+    <h3 class="text-center headline"></h3>
+    <div class="row">
+        <div class="col-sm-12 col-md-offset-1 col-md-10">
+            {% capture blurb %}{% include blurb.md %}{% endcapture %} {{ blurb | markdownify }}
+        </div>
     </div>
-  </div>
 </div>
