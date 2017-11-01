@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Automated creation of risk and structures-to-spray maps for Swaziland IRS 2016
+date: 2016-08-25 00:00:00 Z
+layout: post
 post_date: '2016-08-25'
 image: creation_of_risk_maps
 ---

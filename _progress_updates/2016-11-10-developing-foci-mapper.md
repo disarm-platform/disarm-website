@@ -1,5 +1,6 @@
 ---
 title: Developing foci mapper
+date: 2016-11-10 00:00:00 Z
 layout: post
 post_date: '2016-11-10'
 image: Developing_Foci_Mapper_ws5vzb

@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Building the 'Core interface'
+date: 2016-06-03 00:00:00 Z
+layout: post
 post_date: '2016-06-03'
 image: DiSARM_Core_Interface
-published: true
 ---
 
 The Core interface is designed to let users start to view and explore the outputs from DiSARM’s processing. It initially focuses on the risk maps, and includes some examples of simple analysis.

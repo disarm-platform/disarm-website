@@ -1,9 +1,9 @@
 ---
+title: Built prototype of mobile, offline risk maps
+date: 2016-05-11 00:00:00 Z
 layout: post
-title: 'Built prototype of mobile, offline risk maps'
 post_date: '2016-05-11'
 image: offline_risk_map
-published: true
 ---
 
 After we built some of the initial kind of risk maps for each country. We took one static risk map for both Swaziland and Zimbabwe and built a tiny little demonstration app that loads up through a website.

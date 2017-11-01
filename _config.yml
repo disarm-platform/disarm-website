@@ -1,64 +1,69 @@
-url: http://www.disarm.io
-baseurl:
-
-# Site settings
+---
 title: DiSARM
-email: hello@disarm.io
-description: "Data-driven decision making platform for malaria"
-host: 0.0.0.0
-
-image_root_url: https://res.cloudinary.com/disarm/image/upload/
-image_account : disarm-website
-
+timezone: UTC
 collections:
-  team_members:
-    output: true
   partners:
+    title: Partners
     output: true
-  support_partners:
+  posts:
+    title: Posts
     output: true
   progress_updates:
+    title: Progress Updates
     output: true
-
-# Build settings
+  support_partners:
+    title: Support Partners
+    output: true
+  team_members:
+    title: Team Members
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+url: http://www.disarm.io
+baseurl: 
+email: hello@disarm.io
+description: Data-driven decision making platform for malaria
+host: 0.0.0.0
+image_root_url: https://res.cloudinary.com/disarm/image/upload/
+image_account: disarm-website
 markdown: kramdown
 permalink: pretty
-
 prose:
   metadata:
     _team_members:
-      - name: name
-        field:
-          label: Team member name
-          element: text
-          type: text
-      - name: role
-        field:
-          label: Role
-          element: text
-          type: text
-      - name: image
-        field:
-          label: Cloudinary image ID
-          element: text
-          type: text
+    - name: name
+      field:
+        label: Team member name
+        element: text
+        type: text
+    - name: role
+      field:
+        label: Role
+        element: text
+        type: text
+    - name: image
+      field:
+        label: Cloudinary image ID
+        element: text
+        type: text
     _progress_updates:
-      - name: title # Automated risk modelling is working
-        field:
-          label: Update title
-          element: text
-          type: text
-      - name: layout # post
-        field:
-          element: hidden
-          value: post
-      - name: post_date # '2016-11-03'
-        field:
-          label: Date of post
-          element: text
-          type: date
-      - name: image # Outline_Of_IRS_Work
-        field:
-          label: Cloudinary image ID
-          element: text
-          type: text
+    - name: title
+      field:
+        label: Update title
+        element: text
+        type: text
+    - name: layout
+      field:
+        element: hidden
+        value: post
+    - name: post_date
+      field:
+        label: Date of post
+        element: text
+        type: date
+    - name: image
+      field:
+        label: Cloudinary image ID
+        element: text
+        type: text

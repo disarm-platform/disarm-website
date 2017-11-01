@@ -1,9 +1,9 @@
 ---
 title: Clicker + Dashboard
+date: 2016-07-12 00:00:00 Z
 layout: post
 post_date: '2016-11-10'
 image: DiSARM_Clicker_App
-published: true
 ---
 
 The point behind the clicker up was to demonstrate two things; one of them was to start with a very simple way to collect coordinates of structures which had been sprayed, as well as demonstrate the real time nature of the mobile app.

@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Automated risk modelling is working
+date: 2016-01-03 00:00:00 Z
+layout: post
 post_date: '2016-11-03'
 image: Automated_Risk_Modelling_Is_Working
-published: true
 ---
 
 Using log-Gaussian Cox process (LGCP) models, implemented using R-INLA, we showed it was possible to model passive surveillance case data (geolocated back to household and classified as locally acquired) from Swaziland to produce monthly smoothed maps of predicted incidence. 

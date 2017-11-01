@@ -1,9 +1,9 @@
 ---
-layout: post
 title: Intervention targeting
+date: 2017-04-12 00:00:00 Z
+layout: post
 post_date: '2017-04-12'
 image: intervention-targeting
-published: true
 ---
 
 The intervention targeting module is one of several modules currently under development. It is comprised of 4 components designed to help guide planning, execution and monitoring of intervention campaigns for malaria elimination. Parts of the targeting module were used by NMCP in Swaziland to define priority localities by risk and historic data and produce printed maps for 2016 IRS season.  Responding to feedback from users and partners, the module has since been modified to further enhance current process flows.
