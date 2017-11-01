@@ -1,0 +1,29 @@
+---
+pages:
+- _progress_updates/disarm-being-used-in-4-countries-in-southern-africa.md
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: post
+  hidden: true
+- type: text
+  name: title
+  label: title
+  description: Title!
+  config:
+    required: true
+- type: datetime
+  name: post_date
+  label: post_date
+  description: Date for article
+  config:
+    required: true
+    date_format: DD MMM YYYY
+- type: file
+  name: image
+  label: image
+- type: boolean
+  name: published
+  label: published
