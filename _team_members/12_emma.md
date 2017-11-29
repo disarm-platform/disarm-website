@@ -1,6 +1,5 @@
 ---
 title: 12_emma
-published: true
 name: Emma Zorensky
 image: emma.jpg
 ---
