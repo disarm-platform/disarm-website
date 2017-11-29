@@ -1,7 +1,8 @@
 ---
 layout: post
 title: DiSARM being used in 4 countries in southern Africa
-date: {}
+date:
+  'Sat Sep 30 2017 17:00:00 GMT-0700 (PDT)': null
 post_date: '2017-10-01'
 image: tyklmxmdsgzcxhazjuto
 published: true
