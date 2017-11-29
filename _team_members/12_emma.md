@@ -1,4 +1,5 @@
 ---
+title: 12_emma
 published: false
 name: Emma Zorensky
 image: mfafywb7dugfrvpmhmwq.png
