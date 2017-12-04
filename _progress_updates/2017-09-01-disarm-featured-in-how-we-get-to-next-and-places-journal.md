@@ -1,8 +1,8 @@
 ---
-title: DiSARM featured in How We Get To Next and Places journal
-date: 2017-09-01 00:00:00 Z
-published: false
 layout: post
+title: DiSARM featured in How We Get To Next and Places journal
+date: {}
+published: true
 post_date: '2017-09-01'
 image: pfbcligsddn05y8qkzoz.png
 ---
