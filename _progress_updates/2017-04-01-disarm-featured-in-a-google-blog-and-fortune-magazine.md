@@ -1,8 +1,8 @@
 ---
-title: 'DiSARM featured in a Google blog and Fortune Magazine '
-date: 2017-03-31 00:00:00 Z
-published: false
 layout: post
+title: 'DiSARM featured in a Google blog and Fortune Magazine '
+date: {}
+published: true
 post_date: 04-01-2017
 image: cvyosng5j5if2sxvbzvr.png
 ---
