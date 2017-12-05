@@ -1,8 +1,7 @@
 ---
-layout: post
 title: DiSARM featured in The New York Times
-date: 2015-01-01T00:00:00.000Z
-published: true
+date: 2015-01-01 00:00:00 Z
+layout: post
 post_date: '2015-01-01'
 image: gmswxvam9tnhzwut7ves.png
 ---
