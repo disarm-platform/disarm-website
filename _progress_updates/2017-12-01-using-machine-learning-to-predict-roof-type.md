@@ -1,9 +1,10 @@
 ---
-title: 'Using machine learning to predict roof type '
-date: 2017-12-01 17:00:00 Z
 layout: post
+title: 'Using machine learning to predict roof type '
+date: {}
 post_date: '2017-12-01'
 image: yclufrmbjerdzz2blfcv.png
+published: true
 ---
 
 Building on previous work to identify sprayable structures, the DiSARM team is developing a new ensemble machine learning algorithm to predict a structure’s roof type based on satellite imagery. Roof type is related to both building type (e.g. buildings with tile or thatch roofs are more likely to be residential) and wall type (e.g. buildings with thatched roofs are more likely to have walls made of natural materials like mud); further, wall type strongly influences the insecticide used for indoor residual spraying (IRS). This has important applications for the work that the DiSARM team is already doing and for new capabilities that we hope to bring to the platform.
