@@ -1,8 +1,8 @@
 ---
-title: 'Using machine learning to predict roof type '
-date: 2017-12-01 17:00:00 Z
-published: false
 layout: post
+title: 'Using machine learning to predict roof type '
+date: 2017-12-01T17:00:00.000Z
+published: true
 post_date: '2017-12-01'
 image: yclufrmbjerdzz2blfcv.png
 ---
@@ -11,5 +11,4 @@ Building on previous work to identify sprayable structures, the DiSARM team is d
  
 Adding the roof type prediction probabilities to the building type algorithm improved its accuracy by a few percentage points – while this doesn’t seem like much of an improvement, it translates to thousands more structures being classified correctly, which in turn can lead to savings in time and money for IRS teams.
  
-Accurate prediction of wall type from roof type would potentially result in further gains in efficiency for IRS teams. If we can predict wall type using satellite imagery of roofing materials, IRS teams could better plan how much and which insecticides are needed for a given campaign. This prediction capability could also be potentially expanded to predict other features of a building that could help in IRS planning, like number of rooms and surface area. 
-
+Accurate prediction of wall type from roof type would potentially result in further gains in efficiency for IRS teams. If we can predict wall type using satellite imagery of roofing materials, IRS teams could better plan how much and which insecticides are needed for a given campaign. This prediction capability could also be potentially expanded to predict other features of a building that could help in IRS planning, like number of rooms and surface area.
