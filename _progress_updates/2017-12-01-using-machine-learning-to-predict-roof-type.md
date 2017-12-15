@@ -1,8 +1,7 @@
 ---
-layout: post
 title: 'Using machine learning to predict roof type '
-date: 2017-12-01T17:00:00.000Z
-published: true
+date: 2017-12-01 17:00:00 Z
+layout: post
 post_date: '2017-12-01'
 image: yclufrmbjerdzz2blfcv.png
 ---
