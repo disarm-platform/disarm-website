@@ -1,5 +1,5 @@
 ---
-title: 'Gearing up for 2018 IRS season in Botswana'
+title: Gearing up for 2018 IRS season in Botswana
 date: 2018-06-09 17:00:00 Z
 layout: post
 post_date: '2018-06-09'
