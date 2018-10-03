@@ -1,5 +1,5 @@
 ---
-title: 09_nicolai
+title: '09_nicolai'
 name: Nicolai Davies
 role: Developer
 image: Nicolai
