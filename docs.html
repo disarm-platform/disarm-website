@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="container team">
+
+    <section id='docs'>
+        <h1>API Documentation</h1>
+
+        <p>Insert some general info about what this is. And how to run it?</p>
+
+        <p><pre>curl container_url/ params</pre></p>
+    
+        {% for algo in site.algos %}
+            <h3>{{algo.title}}</h3>
+            <p>{{algo.description}}</p>
+            <a href="{{algo.docs_link}}">Docs</a> |
+            <a href="{{algo.ui_link}}">UI</a> |
+            <a href="{{algo.repo_link}}">Repo</a>
+    
+        {% endfor %}
+    
+    </section></div>
