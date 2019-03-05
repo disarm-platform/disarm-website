@@ -9,7 +9,15 @@ layout: default
 
         <p>Below is a list of alorithms and functions available via the DiSARM API. For each function, there are links to the specifications readme, which provides info on how to run the function via an HTTP request, as well as links to a simple UI to run the function and the function repository on GitHub. If you bump into any issues on any of the functions, please log an issue on the function repository (if you know how) or email hugh.sturrock@ucsf.edu. </p>
 
-        <p><pre>curl container_url/ params</pre></p>
+        <p><pre>curl https://faas.srv.disarm.io/function/cows</pre></p>
+
+    <h3>Standard running</h3>
+    
+    <p>Send request</p>
+    
+    <h3>Async running</h3>
+    
+    <p>Send request with a header set as <pre>X-Callback-Url</pre>
     
         {% for algo in site.algos %}
             <h3>{{algo.title}}</h3>
