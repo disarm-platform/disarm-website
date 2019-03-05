@@ -9,7 +9,15 @@ layout: default
 
         <p>Insert some general info about what this is. And how to run it?</p>
 
-        <p><pre>curl container_url/ params</pre></p>
+        <p><pre>curl https://faas.srv.disarm.io/function/cows</pre></p>
+
+    <h3>Standard running</h3>
+    
+    <p>Send request</p>
+    
+    <h3>Async running</h3>
+    
+    <p>Send request with a header set as <pre>X-Callback-Url</pre>
     
         {% for algo in site.algos %}
             <h3>{{algo.title}}</h3>
