@@ -19,8 +19,10 @@ layout: default
     
     <p>Send request with a header set as <pre>X-Callback-Url</pre>
     
+    <h3>Functions available</h3>
+
         {% for algo in site.algos %}
-            <h3>{{algo.title}}</h3>
+            <h4>{{algo.title}}</h4>
             <p>{{algo.description}}</p>
             <a href="{{algo.docs_link}}">Docs</a> |
             <a href="{{algo.ui_link}}">UI</a> |
