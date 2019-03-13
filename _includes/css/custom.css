@@ -114,6 +114,14 @@ p {
   width: auto;
 }
 
+/***  
+  Docs
+***/
+
+.algo-entry {
+  margin-bottom: 3em;
+}
+
 
 /***
   Tech and Code page

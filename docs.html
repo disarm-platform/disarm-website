@@ -35,12 +35,11 @@ layout: default
         </p>
 
         {% for algo in site.algos %}
-            <p><h4>{{algo.title}}</h4></p>
+            <p class='algo-entry'><h4>{{algo.title}}</h4></p>
             <p>{{algo.description}}</p>
             <a href="{{algo.docs_link}}">Docs</a> |
             <a href="{{algo.ui_link}}">UI</a> |
-            <a href="{{algo.repo_link}}">Repo</a><br>
-            <br>
+            <a href="{{algo.repo_link}}">Repo</a>
     
         {% endfor %}
     
