@@ -7,11 +7,33 @@ layout: default
     <section id='docs'>
 
         <h1>API Documentation</h1>
-        <p>General instructions on <a href='https://github.com/disarm-platform/functions-for-openfaas/wiki'>DiSARM API wiki</a></p>
 
-        <p>Below is a list of alorithms and functions available via the DiSARM API. For each function, there are links to the specifications readme, which provides info on how to run the function via an HTTP request, as well as links to a simple UI to run the function and the function repository on GitHub. If you bump into any issues on any of the functions, please log an issue on the function repository (if you know how) or email hugh.sturrock@ucsf.edu. </p>
+        <h2>General instructions</h2>
+
+        <p>The simplest example of a synchronous request with parameters would be something like:</p>
+        <pre>curl --request 'POST' \
+    --data '{"delay_s":0.5}'  \
+    https://faas.srv.disarm.io/function/longrun</pre>
+    
+    <p>
+        See <a href='https://github.com/disarm-platform/functions-for-openfaas/wiki'>this wiki</a> 
+        for general instructions on running DiSARM API functions
+    </p>
 
         <h2>Algorithm-specific docs</h2>
+
+        <p>
+            Below is a list of alorithms and functions available via the DiSARM API. 
+            For each function, there are links to the specifications (SPECS.md file), which 
+            provides info on how to run the function via an HTTP request, as well as 
+            links to a simple UI to run the function and the function repository on GitHub. 
+        </p>    
+        
+        <p>
+            If you bump into any issues on any of the functions, please log an issue on the 
+            function repository (if you know how) or email hugh.sturrock@ucsf.edu. 
+        </p>
+
         {% for algo in site.algos %}
             <p><h4>{{algo.title}}</h4></p>
             <p>{{algo.description}}</p>
