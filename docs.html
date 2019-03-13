@@ -5,12 +5,12 @@ layout: default
 <div class="container team">
 
     <section id='docs'>
+
         <h1>API Documentation</h1>
+        <p>General instructions on <a href='https://github.com/disarm-platform/functions-for-openfaas/wiki'>DiSARM API wiki</a></p>
 
-        <p>Insert some general info about what this is. And how to run it?</p>
 
-        <p><pre>curl container_url/ params</pre></p>
-    
+        <h2>Algorithm-specific docs</h2>
         {% for algo in site.algos %}
             <h3>{{algo.title}}</h3>
             <p>{{algo.description}}</p>
