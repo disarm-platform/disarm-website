@@ -9,14 +9,16 @@ layout: default
         <h1>API Documentation</h1>
         <p>General instructions on <a href='https://github.com/disarm-platform/functions-for-openfaas/wiki'>DiSARM API wiki</a></p>
 
+        <p>Below is a list of alorithms and functions available via the DiSARM API. For each function, there are links to the specifications readme, which provides info on how to run the function via an HTTP request, as well as links to a simple UI to run the function and the function repository on GitHub. If you bump into any issues on any of the functions, please log an issue on the function repository (if you know how) or email hugh.sturrock@ucsf.edu. </p>
 
         <h2>Algorithm-specific docs</h2>
         {% for algo in site.algos %}
-            <h3>{{algo.title}}</h3>
+            <p><h4>{{algo.title}}</h4></p>
             <p>{{algo.description}}</p>
             <a href="{{algo.docs_link}}">Docs</a> |
             <a href="{{algo.ui_link}}">UI</a> |
-            <a href="{{algo.repo_link}}">Repo</a>
+            <a href="{{algo.repo_link}}">Repo</a><br>
+            <br>
     
         {% endfor %}
     

@@ -1,6 +1,6 @@
 ---
 title: Buildings Clusterer
-description: Clusters building. Add something else in here. Can be quite long, shoudl wrap. an be quite long, shoudl wrap. Clusters building. Add something else in here. Can be quite long, shoudl wrap. Clusters building. Add something else in here. Can be quite long, shoudl wrap. Clusterething else in here. Can be quite long, shoudl wrap. Clusters building. Add something else in here. Can be quite long, shoudl wrap.
+description: This algorithm clusters buildings into groups. The user can specify the minimum and maximum number of builidngs per cluster, as well as the maximum distance between any two buildings in a cluster. It is also possible to ensure that no clusters intersect lines (e.g. roads, rivers or admin boundaries). 
 docs_link: https://github.com/disarm-platform/fn-dbscan-clusterer/blob/master/SPECS.md
 ui_link: https://disarm.shinyapps.io/DISARM-NTD/
 repo_link: https://github.com/disarm-platform/fn-dbscan-clusterer
