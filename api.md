@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: section
 ---
 
-<section id='api'>
-<h1 class="text-center">DiSARM Algorithms</h1>
+# DiSARM Algorithms
+
+[DiSARM Application](/app)
 
 Plentry of tet
-
-</section>

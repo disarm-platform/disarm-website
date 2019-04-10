@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: section
 ---
 
-<section id='app'>
-<h1 class="text-center">DiSARM Application</h1>
+# DiSARM Application
+
+[DiSARM Algorithms](/api)
 
 Yup, different text
 
-</section>
