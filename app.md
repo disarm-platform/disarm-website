@@ -6,6 +6,7 @@ layout: section
 
 The DiSARM app is a spatial intelligence tool that supports disease control programs in carrying out intervention field campaigns in a more efficient and accurate way. While the DiSARM app requires a network connection to access and sync data collected from the field, the app can run offline on any device with a web-browser (desktop, laptop, tablet, smart phone). In its current form, the DiSARM app is being used to implement insecticide residual spray campaigns in southern Africa.
 
+[![](/img/app/1.jpg){:width='100%'}](/app)
 
 ### Planning Field Campaigns 
 Disease control programs can use the DiSARM app to plan field campaigns based on the level of risk within a given country. Geographic areas can be assigned to individual field teams allowing for optimal implementation efficiency and tracking. The DiSARM app provides actionable statistics related to the number of residential structures contained within an assigned area, negating the need for expensive and time consuming surveys. The app also provides estimates the number of human resources, commodities, and time required to successfully complete the campaign. 
