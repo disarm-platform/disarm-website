@@ -1,5 +1,5 @@
 ---
-title: 11_sihle
+title: 06_sihle
 name: Sihle Mbhamali
 role: Developer
 image: sihle.jpg
