@@ -18,5 +18,5 @@ DiSARM is making algorithms available via an Application Programming Interface (
 
 
 ### Links
-- Read the [<i class="fa fa-external-link"></i> API docs](https://docs.disarm.io/api-docs){:target="_blank"}
+- Read the [<i class="fa fa-external-link"></i> API docs](https://docs.disarm.io/){:target="_blank"}
 - Read about the [DiSARM Application](/app)
