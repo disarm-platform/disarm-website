@@ -1,8 +1,8 @@
 # DiSARM API
 
-[![](/img/api/prev_mapping2.jpg){:width='100%'}](/api)
+[![](/img/api/RiskYland.jpg){:width='100%'}](/api)
 
 
-The DiSARM team develop a number of algorithms to help turn raw data into more actionable outputs. Rather than simply writing up our methods in manuscripts and making the code available, we are making our algorithms available via an API.
+The DiSARM project is developing a variety of algorithms that turn raw data into actionable outputs. You can access our algorithms through the DiSARM API.
 
 [Read more](/api)
