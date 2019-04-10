@@ -20,9 +20,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  algos:
-    title: API
-    output: true
 url: http://www.disarm.io
 baseurl: 
 email: hello@disarm.io
