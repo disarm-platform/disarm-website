@@ -19,8 +19,8 @@ The DiSARM app allows users to visualize and monitor progress of field teams in 
 
 
 ### Links
-- Try the [<i class="fa fa-external-link"></i> DiSARM Demo](https://docs.disarm.io/app-v2/demo){:target="_blank"}
-- Read the [docs](https://docs.disarm.io/app-v2){:target="_blank"}
+- Try the [<i class="fa fa-external-link"></i> DiSARM Demo App](https://docs.disarm.io/app-v2/demo){:target="_blank"}
+- Read the [<i class="fa fa-external-link"></i> app docs](https://docs.disarm.io/app-v2){:target="_blank"}
 - Read about [DiSARM Algorithms](/api)
 
 

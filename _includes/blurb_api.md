@@ -1,3 +1,8 @@
-# DiSARM Algorithms
+# DiSARM API
+
+[![](/img/api/prev_mapping2.jpg){:width='100%'}](/api)
+
 
 Disease control programs have access to a wealth of data that has the potential to improve decision making and save lives. However, the problem for most programs is that they lack the time, resources, and expertise to robustly analyze this data and unlock the critical information it contains. The DiSARM algorithms can help solve this problem. For example, disease control programs use surveys to collect information on disease burden in select villages. DiSARM’s risk mapping algorithm takes this data and combines it with information on climate, ecology, and infrastructure to predict transmission risk for villages not included in the original sample. This more complete picture allows programs to target their limited resources towards communities who need help the most.
+
+[Read more](/api)
