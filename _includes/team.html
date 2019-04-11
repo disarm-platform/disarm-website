@@ -2,8 +2,8 @@
   <h2 class="team-subtitle text-center">Team</h2>
 
   <div class="container team">
-    
-    {% for person in site.team_members %}
+    {% assign people = site.team_members | sort: 'title' %}
+    {% for person in people %}
       {% assign row = forloop.index | modulo: 2 %}
 
       {% if row == 1 %}
