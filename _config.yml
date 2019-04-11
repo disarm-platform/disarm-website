@@ -1,5 +1,5 @@
 ---
-title: DiSARM - Disease Surveillance And Risk Monitoring Project
+title: DiSARM
 timezone: UTC
 collections:
   partners:
@@ -20,7 +20,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: https://www.disarm.io
+  algos:
+    title: API
+    output: true
+url: http://www.disarm.io
 baseurl: 
 email: hello@disarm.io
 description: Data-driven decision making for malaria
