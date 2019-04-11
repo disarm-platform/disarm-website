@@ -180,6 +180,10 @@ img.clickable {
   padding: 3px;
   box-shadow: 0 0 2px 1px #d6d6d6;
 }
+img.clickable:hover {
+  box-shadow: 0 0 2px 1px #03ccff5e;
+}
+
 
 
 @media (min-width: 768px) {
