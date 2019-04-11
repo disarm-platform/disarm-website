@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="container team">
+
+    <section id='docs'>
+
+        <h1>API Documentation</h1>
+
+        <h2>General instructions</h2>
+
+        <p>The simplest example of a synchronous request with parameters would be something like:</p>
+        <pre>curl --request 'POST' \
+    --data '{"delay_s":0.5}'  \
+    https://faas.srv.disarm.io/function/longrun</pre>
+    
+    <p>
+        There are detailed instructions for running the functions in 
+            <a href="https://github.com/disarm-platform/functions-for-openfaas/wiki/Running-deployed-functions-for-development-and-testing">development</a>
+            (e.g. using <em>curl</em>)
+            and in 
+            <a href="https://github.com/disarm-platform/functions-for-openfaas/wiki/Running-deployed-functions-in-production">production</a>
+            (e.g. from Python).
+            For more general instructions and background information, see <a href='https://github.com/disarm-platform/functions-for-openfaas/wiki'>the project wiki</a>.
+    </p>
+
+        <h2>Algorithm-specific docs</h2>
+
+        <p>
+            Below is a list of alorithms and functions available via the DiSARM API. 
+            For each function, there are links to the specifications (SPECS.md file), which 
+            provides info on how to run the function via an HTTP request, as well as 
+            links to a simple UI to run the function and the function repository on GitHub. 
+        </p>    
+        
+        <p>
+            If you bump into any issues on any of the functions, please log an issue on the 
+            function repository (if you know how) or email <a href='mailto:hugh.sturrock@ucsf.edu'>hugh.sturrock@ucsf.edu</a>. 
+        </p>
+
+        {% for algo in site.algos %}
+            <p class='algo-entry'><h4>{{algo.title}}</h4></p>
+            <p>{{algo.description}}</p>
+            <a href="{{algo.docs_link}}">Docs</a> |
+            <a href="{{algo.ui_link}}">UI</a> |
+            <a href="{{algo.repo_link}}">Repo</a>
+    
+        {% endfor %}
+    
+    </section></div>
