@@ -1,8 +1,8 @@
 ---
 title: DiSARM collaborates on new spatial intelligence tool, Reveal
-date: 2018-04-20 17:00:00 Z
+date: 2019-04-20 17:00:00 Z
 layout: post
-post_date: '2018-04-20'
+post_date: '2019-04-20'
 image: omdfvmbnbk5fyawdpu20.png
 ---
 
