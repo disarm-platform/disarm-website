@@ -2,7 +2,7 @@
 title: DiSARM algorithms used to identify NTD hotspots
 date: 2019-05-10 17:00:00 Z
 layout: post
-post_date: '2019-05-10'
+post_date: '2019-04-10'
 image: muaa9wnsemeswlmyajis.png
 ---
 
