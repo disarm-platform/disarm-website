@@ -16,6 +16,8 @@ Similarly, while programs often have access to valuable data on locations of bui
 ## DiSARM API
 DiSARM is making algorithms available via an Application Programming Interface (API). Essentially, the API will provide a way for machine to machine running of algorithms. This means that if someone wants to use one of our algorithms, they don’t have to send their data to a human to crunch the numbers and send back the result, they can just send data to the API over the web, and the API gives them back the result. In addition to the benefits of automation, the API will allow the algorithms to be plugged into user interfaces and apps such as the DiSARM app and Reveal. Additionally, the API will allow the DiSARM platform to extend its algorithms and tools to support predictive mapping and surveillance of Neglected Tropical Diseases. Check back soon for documentation on how to use the API. 
 
+<iframe style="display: block; margin: auto;" width="700" height="400"  src="https://www.youtube.com/embed/o5wFP3zOG1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Links
 - Read the [<i class="fa fa-external-link"></i> API docs](https://docs.disarm.io/api){:target="_blank"}
