@@ -1,0 +1,8 @@
+---
+title: 07_alistair
+name: Gift Mavuso
+role: Junior Developer
+image: fnjqhqisvtmubxcibis1.png
+---
+
+Gift is a software developer from eSwatini with sills in Computer Science and Mathematics. His Mathematics and Computer Science skills always come in handy in all our software developement activities.
