@@ -1,5 +1,5 @@
 ---
-title: 07_thokozani
+title: 05_thokozani
 date: 2017-11-30 00:00:00 Z
 name: Thokozani Ngidi
 image: hifqkhojvhfjufz5fbr7.png
